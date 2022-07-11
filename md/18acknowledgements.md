@@ -1,0 +1,33 @@
+---
+Pr-id: The Psychology of the Web Developer 
+P-id: DeepPockets
+A-id: 4
+Type: article
+Book-type: anthology
+Anthology item: article
+Item-id: unique no.
+Article-title: title of the article
+Article-status: accepted
+Author: Maisa Imamović
+Author-email:   corresponding address
+Author-bio:  about the author
+Abstract:   short description of the article (100 words)
+Keywords:   50 keywords for search and indexing
+Rights: CC BY-NC 4.0
+...
+
+# Acknowledgements
+
+I am so happy to have reached this page where I can express how my contemplations were never done alone.
+
+Writing ‘Club-Wise: A Theory of Our Time’ helped me to stay awake and less drunk throughout the sleepless nights of my life as a bartender, whereas writing ‘Diary of a Stylist’ made me feel human in a world where everything seemed to act just like an image. This publication, like most of my previous ones, started from an urge to break free from the structures I considered restraining to my nourishment of feeling free. And, just like the previous ones, it ends with the realization that everything is fine, no matter how many times Fuck it seemed like the only way out.
+
+The peers mentioned below are the peers who made my internal inspections feel comfortable; who encouraged me to always, albeit critically, embrace boredom in life, a.k.a. to flee from the structures that bore me once I’ve fully stripped them of their essence.   
+
+Thank you, Clara Pasteau, for opening the web-dev scene for me and teaching me how to kiss my shoulder through the hardships. I still do it. This freelance path was not completely lone-wolf because of you. AND: I can’t wait to start a company with you. Alina Lupu and Marlies van Hak: without your invitation to reflect on the precarious artistic practices throughout the pandemic, this subject wouldn’t have felt like the gut feeling it did now, one I decided to follow in order to further reflect on my coding endeavors. Thank you for tickling the juiciest of my scars and passions. Talking about those who never cease to nourish me: this brings me to Geert Lovink, forever. It’s funny because it’s so obvious; I smile because I don’t know what to thank you for anymore. Thanks for mentally slouching with me. Oh and, stoic man, thank you for a short collaboration. It obviously inspired a big chunk of this book. 
+
+And then there is the production layer of gratitude: the INC team!!! Thank you for being so OK with me squatting the office, but also for the supportive fun times we have <3. It always feels like we’re breaking the internet when we’re together. Especially thanks to Laurence Scherz, Sepp Eckenhaussen, and Maria van der Togt for helping with the final editing and designing of the book. As for my feedback givers, let me drop some names: Alina Lupu, Françoué Giraremeunier, Aurélien Lepetit, Anesa Imamović—I absolutely loved every bittersweet word you threw at me after reading version 1.0. You made me feel proud of my public shyness. James P.A. Crossley! Thank you for the cover design and pleasant presence during the process of writing. 
+
+And then there is the final layer of gratitude. My dear Imamovićs (Mama and Tata), thank you for not understanding my theories at all. Eszter Kiss, for being the apple of my eye. Lacey Verhalen, for cheerleading (How is your book going?) while writing your thesis. Sophie Cloes, for adopting me in Brussels when and where I started writing the first few chapters of this book. Ksenia Perek, for convincing me to put my face all over the cover, then finally suggesting not to do it. Donauweg 8, for being the sexiest studio space in the middle of nowhere. Donauweg 8, for giving me the best studio mates (Roman Tkachenko, Lena Karson, Natalia Blahova). Stefan Pavlović ;) Thank you NXS World, for commissioning and hosting a part of the text (about the young web developer). And of course, thanks to all my clients and friends for hiring me sufficiently so that I could write this book for free.
+
+You make me all heart and no play. 
