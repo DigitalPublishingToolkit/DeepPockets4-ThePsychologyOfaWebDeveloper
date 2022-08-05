@@ -56,7 +56,7 @@ emerging designers institutional recognition they lacked in the first
 few years of their graphic design careers. This humble intention made
 Larry feel represented, and subsequently less lonely on the designer
 market. The collaboration could then, perhaps, provide him with a
-feeling of belonging, he thought. So, *I am honored,* he said.
+feeling of belonging, he thought. *I am honored,* he said.
 
 ZipSpace, from their side, did not find it crucial to inform Larry about
 their secret mission to preserve the traditional role of the graphic
@@ -136,9 +136,7 @@ Architecture:
 
 …~~\*Build Architecture\*~~
 
-Setting up the default digital environment before analyzing the
-delivered content always helped our Larry shrink his analytical mind
-while scanning through the texts, jpegs, audio, and pdf files provided.
+Setting up the default digital environment before analyzing the delivered content always helped Larry shrink his analytical mind while scanning through the texts, jpegs, audio, and pdf files provided.
 Having the web skeleton ready made him realize instantly where certain
 files must be placed, leaving him with more time to fine-tune the files
 he actually wanted to see published on the website.

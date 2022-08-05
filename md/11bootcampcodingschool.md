@@ -91,10 +91,7 @@ Imagining the role of the user in meeting the conditions of such an
 interface reminded me of a dream or rather psychedelic experience
 someone who was once dear to me told me about. In this dream slash
 psychedelic experience, he saw an image of himself, uncontrollably
-devouring chunks of information. He didn’t specify what exactly these
-chunks looked like, but I envisioned mountains of food that the poor,
-lost parents of Chihiro were downing in during the opening scenes of the
-anime *Spirited Away*, just before they’re turned into pigs. The story
+devouring chunks of information. He didn’t specify what exactly these chunks looked like, but I envisioned mountains of food that the lost parents of Chihiro were downing in during the opening scenes of the anime *Spirited Away*, just before they’re turned into pigs. The story
 of my once dear one, then, ends with him describing that if he were ever
 able to stop devouring, he’d perish.
 

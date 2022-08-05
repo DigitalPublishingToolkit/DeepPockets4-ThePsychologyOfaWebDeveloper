@@ -112,11 +112,7 @@ system: Harvard Classification Scheme),[^17femalefreelancer_3] Henrietta Swan Le
 (discovered galaxies beyond the Milky Way), Dorothy Vaughan (NACA’s
 first black manager; self-taught in FORTRAN, prepared her staff for the
 transition from human to machine computers), Mary Jackson (NASA’s first
-black female engineer), Katherine Johnson, ENIAC (Kathleen McNulty
-Antonelli, Jean Jennings Bartik, Betty Snyder Holberton, Marlyn Wescoff
-Meltzer, Ruth Lichterman Teitelbaum, Frances Bilas Spence, Kathleen
-Booth, Grace Murray Hopper, Margaret Hamilton, Mary Kenneth Keller,
-Katie Bouman, and Donna Strickland.
+black female engineer), Katherine Johnson, ENIAC (Kathleen McNulty Antonelli, Jean Jennings Bartik, Betty Snyder Holberton, Marlyn Wescoff Meltzer, Ruth Lichterman Teitelbaum, Frances Bilas Spence), Kathleen Booth, Grace Murray Hopper, Margaret Hamilton, Mary Kenneth Keller, Katie Bouman, and Donna Strickland.
 
 Extending this list with Clara would end up proving that we’re competent
 enough for the industry. Doing ‘average’ development would disqualify us
@@ -191,7 +187,7 @@ and atrocities unfolding in the world, as an ethically viable option?’
 > *\*(rising action again) Hmm, but what does the subject want????\**
 
 I want to be free (from feedback loops), and I want others to be free,
-too. [^17femalefreelancer_8] Demanding freedom4all seem too naive here. The constraints
+too. [^17femalefreelancer_8] Demanding freedom4all seems too naive here. The constraints
 from which any urgency is born requires addressing its demands through
 its relations to the neighboring factors (such as alienation, agency,
 self-governance, survival, consumption, power, class) and which, I

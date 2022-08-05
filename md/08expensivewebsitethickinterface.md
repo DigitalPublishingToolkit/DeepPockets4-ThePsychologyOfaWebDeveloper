@@ -116,11 +116,7 @@ it sounded as if they’d found the ultimate solution to the issue of the
 traditional systematic organizations (again, i.e. chronological order)
 by making the design choices they’d made for both publications. But it
 also sounded like they hadn’t defined the issue, yet strongly stood
-behind their solution for it. What is the issue at stake, exactly? Dixit
-the Russian pavilion: the limited choice of classifying *options* given
-by the traditional formats. Well. True, but there’s no need to occupy
-the whole pavilion in order to ‘solve' this. Isn’t it impressive that
-most structures don’t seem to care about their content not being read?
+behind their solution for it. What is the issue at stake, exactly? Russian pavilion says: the limited choice of classifying options given by the traditional formats. I agree, but is there a need to occupy the whole pavilion in order to ‘solve' this? Isn’t it impressive that most structures don’t seem to care about their content not being read?
 
 The pavilion’s idea of randomness brings me to an excerpt from a poem I
 wrote about the Venice Biennale of Architecture in 2021:

@@ -116,8 +116,7 @@ will refrain from specifying). Imagine how many of them build products,
 use products, promote products. Imagine what happens to the product not
 built solely around catching the user’s attention. Imagine one user’s
 story getting lost in the digital ocean, solely because they opted out
-of using a certain product. Now, imagine (digital) skies—for the sake of
-keeping it light.
+of using a certain product. Now, imagine the skies—for the sake of keeping it light. 
 
 Everybody wants to make money; that’s why everybody wants a *simple*
 website (be it for their own consumption or for representation). The

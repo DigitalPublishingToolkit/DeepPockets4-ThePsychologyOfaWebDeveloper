@@ -34,10 +34,7 @@ chose *him* as an assistant. Enough time has passed for him to know that
 Scott would never tolerate an aggressive web developer whose interest is
 money and prestige, nor would he ever be able to tolerate a lone coding
 wolf who’d rather be sniffing eagerly at alternative media spaces where
-grids melt into transparent shapes, invisible to the naked eye. The
-reasons for choosing our dear Larry are obvious: an aggressive type
-would be one too many in the studio, while a wolf could possibly
-threaten Scott’s own intellectual property.
+grids melt into transparent shapes, invisible to the naked eye. The reasons for choosing Larry are obvious: an aggressive type would be one too many in the studio, while a wolf could possibly threaten Scott’s own intellectual property.
 
 After many years of being compliant to his boss, Larry finally has
 started to feel uneasy. Reflecting on a mental image of himself in his
@@ -113,9 +110,7 @@ world. He sinks deeper still. Countless web developers are on a similar
 mission, and they’re probably technically more well-versed than he is.
 Even deeper. If he *could* change the world, he’d turn it into a world
 in which there are no problems, so that he would never have to fix them
-again. He stops sinking. Go, Larry. Go, go. If he wants an interesting
-death, he’s going to have to work towards it. He starts swimming. If he
-wants emotional safety, he’s going to have to exterminate what makes his
+again. He stops sinking. If he wants an interesting death, he’s going to have to work towards it. He starts swimming. If he wants emotional safety, he’s going to have to exterminate what makes his
 environment unlovable. Larry reaches the surface, takes a deep breath.
 
 *Fuck it*, he decides for the second time that day.
@@ -156,9 +151,7 @@ apparent reason, or if things (like coffee) just wouldn’t go where you
 wanted them to (into a mug). Imagine if you needed complicated tools
 (like milk syringe) for the simplest tasks (to soak a cornflake).
 Imagine if nothing (like sand) looks like it was supposed to (instead,
-it resembles chocolate milk). Oh, yeah*. Oops.* And now, I ask of you,
-to just imagine, if everything (like an IKEA-BEKANT working desk) simply
-broke down once it got too popular. What would you do, dear human?
+it resembles chocolate milk). Oh, yeah. Imagine if everything (like an IKEA-BEKANT working desk) simply broke down once it got too popular. What would you do, dear human?
 That’s right. You’d never put up with it.
 
 That’s why Larry built BlockSmith: so you can make things work exactly
