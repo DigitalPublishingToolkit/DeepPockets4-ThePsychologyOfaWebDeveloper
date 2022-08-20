@@ -47,13 +47,13 @@
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Scenes of Independence: Cultural Ruptures in Zagreb (1991-2019)</Content>
+    <Content>The Psychology of the Web Developer, Reality of a Female Freelancer</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>by Sepp Eckenhaussen</Content>
+    <Content>by Maisa Imamović</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 

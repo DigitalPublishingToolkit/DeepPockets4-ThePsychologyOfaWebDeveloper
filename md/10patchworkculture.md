@@ -29,7 +29,7 @@ But also: ‘As we find solutions, we find even more ambitious
 objectives.’[^10patchworkculture_2]
 
 This time last year, while looking out of Studio Scott’s window, Larry
-concludes that it’s definitely due to his compliant nature that his boss
+concluded that it’s definitely due to his compliant nature that his boss
 chose *him* as an assistant. Enough time has passed for him to know that
 Scott would never tolerate an aggressive web developer whose interest is
 money and prestige, nor would he ever be able to tolerate a lone coding
@@ -39,7 +39,7 @@ grids melt into transparent shapes, invisible to the naked eye. The reasons for 
 After many years of being compliant to his boss, Larry finally has
 started to feel uneasy. Reflecting on a mental image of himself in his
 private life has confirmed that it’s a bit odd to be given such a
-personality trait: ‘compliant nature.’ He shuffled through the last
+personality trait: ‘compliant nature’. He shuffled through the last
 three remaining images from his private life. Right there, he realized,
 *that’s* the core of the problem: he never spends any time outside of
 the studio. The last image shows a portrait of him, lounging on a sofa
@@ -55,8 +55,7 @@ irritates him is only proof of his endurance. Instead of doubting, he
 should feel proud.
 
 *But really,* he asked himself, *how come he was never taught how to
-look away from the screen, how to take a break?* The 20-20-20 rule
-break, or lunch, or even holidays: they don’t count. Hmm. Larry
+look away from the screen, how to take a break?* The 20-20-20 rule, or lunch, or even holidays: they don’t count. Hmm. Larry
 scratched himself slowly on the head. What does this mean?
 
 He tried to imagine an authentic kind of break, but only bumped into the
@@ -68,7 +67,7 @@ frames. At this point, his sheer incompetence bursted into a diplomatic
 rage. Although this rage was escalating sloooower than you might think,
 it escalated further and further.
 
-Hmm. Hmm. You know what’s funny? he thought to himself. In this
+Hmm. Hmm. *You know what’s funny?* he thought to himself. In this
 particular time frame, it’s enormously difficult to tell if his hands
 are more expensive than his brain. As if … ‘As if how something is
 assembled is alien to the impulse that created it.’ — Ocean Vuong, *On
@@ -149,7 +148,7 @@ were dressed the same (light-grey suits paired with Converse All Stars).
 Imagine if things (like framed Matisse paintings) disappeared for no
 apparent reason, or if things (like coffee) just wouldn’t go where you
 wanted them to (into a mug). Imagine if you needed complicated tools
-(like milk syringe) for the simplest tasks (to soak a cornflake).
+(like a milk syringe) for the simplest tasks (to soak a cornflake).
 Imagine if nothing (like sand) looks like it was supposed to (instead,
 it resembles chocolate milk). Oh, yeah. Imagine if everything (like an IKEA-BEKANT working desk) simply broke down once it got too popular. What would you do, dear human?
 That’s right. You’d never put up with it.
@@ -157,9 +156,6 @@ That’s right. You’d never put up with it.
 That’s why Larry built BlockSmith: so you can make things work exactly
 the way they’re supposed to. Everything just *works* with BlockSmith—the
 modern way to build structures for the web.
-
-‘Slow and steady may not win the race, but programming is not a race.’ —
-Gerald Weinberg, The Psychology of Computer Programming
 
 [^10patchworkculture_1]: ‘A patchwork culture of short-term memories and missing records,
     conflicting histories and discontinuous samples, strands of the

@@ -67,7 +67,7 @@ Elizabeth Wurtzel, *Bitch*, London: Quartet Books Limited, 1999.
 
 Donna Ares, ‘Prokleta je Amerika’, 2012.
 
-Lisa Loeb, ‘She’s falling apart’, 2002.
+Lisa Loeb, ‘She’s Falling Apart’, 2002.
 
 \*ARTICLES\*
 
@@ -109,5 +109,5 @@ QUEERING THE MAP,
 
 \*MAGAZINES\*
 
-*Real Review\#11*, ‘What it means to live today’, London: REAL
+*Real Review\#11*, ‘What it Means to Live Today’, London: REAL
 Foundation, Spring 2021.

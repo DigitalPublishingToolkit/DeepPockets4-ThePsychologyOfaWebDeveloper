@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Everybody wants ~~money~~ A SIMPLE WEBSITE
+# Everybody wants <s>money</s> A SIMPLE WEBSITE
 
 As a first-year student of Architectural Design in 2015, I was taught
 that architecture is a profession that has the magnetizing power to get
@@ -47,7 +47,7 @@ term for any website that is technically actually quite complex.
 
 A ‘simple’ website’s domain is quite straight-forward: it directs you to
 the subject’s acquired title plus the domain extension. A simple website
-has a (hamburger) menu, is immediately accessible by search engines,
+has a (hamburger) menu, is immediately accessible through search engines,
 loads in two seconds or less, works the same across various devices,
 minimizes redirects, condenses images and media, is pretty (yes),
 mobile-friendly, and takes about six seconds of a user’s time to
@@ -64,7 +64,7 @@ highly desired attention of the user. One bug on a simple website gives
 an insight into the product and plugin’s state: endlessly updating
 itself to survive among other similar tools on the market.
 
-Because of the many available tools, as well as the industry’s
+Because of the many available tools as well as the industry’s
 fast-updating nature, a web developer is conditioned to choose which
 tools (programming language and back/front-end environments, additional
 frameworks, plugins) he most identifies with and that he wants to settle

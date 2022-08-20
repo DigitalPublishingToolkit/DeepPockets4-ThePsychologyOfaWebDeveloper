@@ -18,34 +18,34 @@ Rights: CC BY-NC 4.0
 
 # Contents
 
-<a href="#">Spleak</a>
+<a href="ch004.xhtml">Spleak</a>
 
-<a href="#">Assistant web developer</a>
+<a href="ch005.xhtml">Assistant Web Developer</a>
 
-<a href="#">The web developer</a>
+<a href="ch006.xhtml">The Web Developer</a>
 
-<a href="#">Expensive website, thick interface</a>
+<a href="ch007.xhtml">Expensive Website, Thick Interface</a>
 
-<a href="#">Everybody wants ~~money~~ A SIMPLE WEBSITE</a>
+<a href="ch008.xhtml">Everybody Wants <s>Money</s> A SIMPLE WEBSITE</a>
 
-<a href="#">Patchwork Culture</a>
+<a href="ch009.xhtml">Patchwork Culture</a>
 
-<a href="#">Bootcamp coding school</a>
+<a href="ch010.xhtml">Bootcamp Coding School</a>
 
-<a href="#">Anorexia</a>
+<a href="ch011.xhtml">Anorexia</a>
 
-<a href="#">Simply smart</a>
+<a href="ch012.xhtml">Simply Smart</a>
 
-<a href="#">Scott gives me an assignment</a>
+<a href="ch013.xhtml">Scott Gives Me an Assignment</a>
 
-<a href="#">WordPress cringe</a>
+<a href="ch014.xhtml">WordPress Cringe</a>
 
-<a href="#">Post-Wordpress web-dev, fuck it</a>
+<a href="ch015.xhtml">Post-Wordpress Web-dev, FUCK IT.</a>
 
-<a href="#">Female freelancer</a>
+<a href="ch016.xhtml">Female Freelancer</a>
 
-<a href="#">Acknowledgements</a>
+<a href="ch017.xhtml">Acknowledgements</a>
 
-<a href="#">References</a>
+<a href="ch018.xhtml">References</a>
 
 *Please note: unless otherwise specified, he is persistently used throughout the book to represent the stereotype of a web developer, but not the figure’s essence.*

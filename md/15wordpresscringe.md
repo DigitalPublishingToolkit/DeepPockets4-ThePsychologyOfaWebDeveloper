@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Wordpress cringe
+# Wordpress Cringe
 
 The reasons for a so-called ‘WordPress cringe’ that exists for both its
 users and the web developers working with it are understandable: the
@@ -26,8 +26,7 @@ pretty *ugly*. Web developers cringing at WordPress software made me
 wonder why a different software with the same listing system couldn’t be
 a solution (such as, for example, Kirby).
 
-WordPress is a web builder software that is, at the time of writing
-this, nineteen years old. When it was released for free in 2003, it soon
+WordPress is a web builder software that is, at the time of writing this, nineteen years old. When it was released for free in 2003, it soon
 became the market leader of the blogging tools industry, allowing both
 users and developers to extend its default functionalities by writing
 their own plug-ins and sharing these with the rest of the online
@@ -42,8 +41,8 @@ necessarily on all of them, such as before. I guess some users didn’t
 like feeling constrained by component repetition across pages.
 
 By 2010, WordPress version 3.0 enabled the user to customize the styling
-of the default *Twenty Ten* theme. The theme became an annual mirror to
-the user’s taste in grids, and continues updating itself every year.
+of the default *Twenty Ten*-theme. The theme became an annual mirror to
+the user’s taste in grids, and continues to update itself every year.
 
 The year is Twenty Twenty-Two: The Most Flexible Default WordPress Theme
 of all times. Built to reflect the modern user needs, it is inspired by
@@ -57,7 +56,7 @@ Years of WordPress’ changing according to the user’s and web developer’s
 needs made WordPress survive as the leading publishing software on the
 internet, with more than 43 percent of all websites built under its
 wings. So, why oh why, do users *cringe* so hard at the software that
-updates itself recursively along with their digital wishes? To answer
+updates itself recursively alongside their digital wishes? To answer
 this question, I’d like to explore the technical, stylistic, and
 personal perspectives of Wordpress’ cringe.
 
@@ -139,7 +138,7 @@ or their own proprietary version of WordPress (such as BlockSmith).
 
 This rarely discussed reason behind the web developer’s pride has a
 cleaned-up version: instead of confessing to their opinions, a web
-developer finds himself persuading their clients and/or users that the
+developer finds themselves persuading their clients and/or users that the
 interface design of WordPress is *just horrible*. Because of the
 personal sensitivity that style installs in every user, the user is
 easily persuaded and charges extra for the time it took their

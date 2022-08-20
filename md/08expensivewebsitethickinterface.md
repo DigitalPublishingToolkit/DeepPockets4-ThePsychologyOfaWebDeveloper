@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Expensive website, thick interface
+# Expensive Website, Thick Interface
 
 Even though web infrastructures are built in parallel with human needs
 for language and communication, the interfaces don’t exactly host a
@@ -26,17 +26,17 @@ hierarchy of language. The CMS software built by Scott was programmed to
 build the interfaces of presentation websites his clients grew reliant
 on.
 
-Let me explain. Presentation websites are digital containers to hold the
-ideas, thoughts, and/or visuals of an artist, cultural institution,
-brand, or \[insert subject\]. Their function is to archive information
+Let me explain: presentation websites are digital containers to hold the
+ideas, thoughts and/or visuals of an artist, cultural institution,
+brand or \[insert subject\]. Their function is to archive information
 accumulated and maintained throughout the subject’s lifetime and
 represent the subject as a contained body that has a significant value
 on the market.[^08expensivewebsitethickinterface_1] To avoid user unfriendly representation of
 information,[^08expensivewebsitethickinterface_2] it is best if the information is assigned a specific
 place on the template’s grid.
 
-Building a template is the first important step for interface
-organization. Most of them have similar structures: header, body, and
+Building a template is the first important step towards interface
+organization. Most of these have similar structures: header, body, and
 footer. The header is where the menu usually is, and helps users
 navigate through the website. The body, usually organized by a grid,
 contains most of the content. A footer indicates the subject’s copyright
@@ -46,7 +46,7 @@ My information. My content. *My design*.
 Today, there are a lot of open-source templates ready to represent a
 subject in the best possible way. They come in various structures and
 styles—the amount there is to choose from accommodates most user’s taste
-in the current market. While some are hiding in the gutter of the
+in the current market. While some are hidden in the gutter of the
 internet, a lot of them are included in the hosting package, ready to be
 installed. They come with pre-filled information that the user modifies
 to their businesses:
@@ -81,11 +81,11 @@ appear across the pages are placed close to the corners of the screen so
 that they don’t disturb the reader’s focus of a single page.
 
 I wondered about this structure translated to the digital world. At the
-Venice Biennale of Architecture in 2021 (‘How will we live together?’),
+Venice Biennale of Architecture in 2021 (‘How will we live together?’)
 the Russian pavilion impressed me with an attempt to merge both the
 physical and digital experiences of the pandemic’s postponement reality.
 Their project, [*pavilionrus.com*](http://pavilionrus.com), became a
-well-formatted container with a function to seize the textual thoughts
+well-formatted container with the function to seize textual thoughts
 about various topics that emphasize the country’s position of waiting
 towards the biennale’s opening. Yes, most countries were in the same
 position, but not all of them defined their format. The website makes
@@ -112,11 +112,11 @@ a multiplicity of possible indexes.’
 How shall I put this delicately… I was not necessarily impressed by the
 country’s choice to organize the information through keywords (instead
 of categories) as much as I was by their confidence of doing so. Somehow
-it sounded as if they’d found the ultimate solution to the issue of the
+it sounded as if they’d found the ultimate solution to the issue of
 traditional systematic organizations (again, i.e. chronological order)
 by making the design choices they’d made for both publications. But it
-also sounded like they hadn’t defined the issue, yet strongly stood
-behind their solution for it. What is the issue at stake, exactly? Russian pavilion says: the limited choice of classifying options given by the traditional formats. I agree, but is there a need to occupy the whole pavilion in order to ‘solve' this? Isn’t it impressive that most structures don’t seem to care about their content not being read?
+also sounded like they hadn’t *defined* the issue, yet strongly stood
+behind their solution for it. What is the issue at stake here, exactly? The Russian pavilion states it as: the limited choice of classifying options given by the traditional formats. I agree, but is there a need to occupy the whole pavilion in order to ‘solve' this? Isn’t it impressive enough that most structures don’t seem to care about their content not being read?
 
 The pavilion’s idea of randomness brings me to an excerpt from a poem I
 wrote about the Venice Biennale of Architecture in 2021:
@@ -229,7 +229,7 @@ I read the following:
 >
 > find out who we are,
 
-Circles—sometimes with different beginnings and ends—but always circles.
+Circles—sometimes with different beginnings and ends—but always *circles*.
 
 When such compression is applied to a website, no matter how
 ‘content-full’ it is, it depicts how perfectly organized the developer’s
@@ -321,14 +321,14 @@ kind of a website in the current state of our digital world.
 
 Real-time websites are similar to presentation websites because they are
 also heavy, need a subject to contain across the grid, and are built
-through (linearly-oriented)compression. The experiences of the two,
+through (linearly-oriented) compression. The experiences of the two,
 however, differ.
 
 Real-time websites are immersive through their interaction design. Not
 visually immersive, like virtual reality, but just enough to make one
 forget about the passing of time. Built with the purpose to make the
 users feel connected, they allow their users to interact with
-conversation triggering components (i.e. chat, ability to comment, poke,
+conversation-triggering components (i.e. chat, ability to comment, poke,
 block, report, like, heart, delete, edit, send, undo…). These user
 interactions are extracted in texts, feedback, rating, opinions,
 preferences, and so on. They are also known as bits.

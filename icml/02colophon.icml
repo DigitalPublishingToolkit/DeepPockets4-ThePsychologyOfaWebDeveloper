@@ -72,40 +72,40 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>DeepPockets #3 </Content>
+    <Content>DeepPockets #4 </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>Scenes of Independence: Cultural Ruptures in Zagreb (1991-2019)</Content>
+    <Content>The Psychology of the Web Developer: Reality of a Female Freelancer</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Author: Sepp Eckenhaussen </Content>
+    <Content>Author: Maisa Imamović </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Preface: Leonida Kovač </Content>
+    <Content>Editor and Proofreader: Laurence Scherz </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Cover design: James P.A. Crossley </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Design and E-Pub development: Sepp Eckenhaussen, Maria van der Togt </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Printer: Lulu </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Editing: Miriam Rasch and Rosie Underwood </Content>
+    <Content>Published by the Institute of Network Cultures, Amsterdam, 2022 </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Cover design: Laura Mrkša </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Published by the Institute of Network Cultures, Amsterdam, 2019 </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>ISBN 978-94-92302-40-3</Content>
+    <Content>ISBN</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -118,9 +118,6 @@
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Institute of Network Cultures </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Phone: +3120 5951865 </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Email: info@networkcultures.org </Content>

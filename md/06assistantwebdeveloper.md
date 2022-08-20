@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Assistant web developer
+# Assistant Web Developer
 
 Meet: Larry. It has been two years since Larry became Scott’s assistant.
 During this time, he has imagined three possible reasons as to why he
@@ -35,7 +35,7 @@ design production. The six founders, Jeroen, Mees, Yara, Arie, Mila, and
 Luuk, all have a mutual affinity for projects developed by the same
 graphic design masters, which they considered as a solid selection to
 represent their taste. These historical footprints marking successful
-publications, flyers, scarves, and posters were planned to be hung,
+publications, flyers, scarves and posters were planned to be hung,
 pasted, and screened on the white walls of their soon-to-be permanent
 collection. The permanent collection, so the founders claimed, would
 attract the audience they wanted to establish. I think they wanted to
@@ -77,7 +77,7 @@ As a graphic designer turned web developer, he was experienced enough to
 know that one core question welcoming the user to the website could
 solve the puzzle of abstraction which most institutions suffer from in
 the online sphere. Most core questions of institutions are found on
-their *About*-page, above or below the paragraphs which describe their
+their About-page, above or below the paragraphs which describe their
 history.
 
 For Larry, situating this information on that particular page was
@@ -136,12 +136,12 @@ Architecture:
 
 …~~\*Build Architecture\*~~
 
-Setting up the default digital environment before analyzing the delivered content always helped Larry shrink his analytical mind while scanning through the texts, jpegs, audio, and pdf files provided.
+Setting up the default digital environment before analyzing the delivered content always helped Larry shrink his analytical mind while scanning through the texts, JPEG’s, audio, and PDF files provided.
 Having the web skeleton ready made him realize instantly where certain
 files must be placed, leaving him with more time to fine-tune the files
 he actually wanted to see published on the website.
 
-In the end, Larry didn’t listen to the more experimental heart that was
+In the end, Larry didn’t listen to the more experimental heart
 beating rapidly in his chest. Remembering the lessons from the
 collaboration with ZipSpace made him feel happy about taking the road
 often travelled during the process, for the less travelled one would

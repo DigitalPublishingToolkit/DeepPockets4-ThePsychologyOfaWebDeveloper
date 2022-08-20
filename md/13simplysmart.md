@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# sIMPLY Smart
+# Simply Smart
 
 What is nothingness when digitalized? Metrics.
 
@@ -114,7 +114,7 @@ audience. I started reading the comments from his followers and fans:
 besides fire emojis and multi-colored hearts, there were a lot of
 desperate questions, urgently asking for more tips on how to become a
 successful web developer. Tapping the names of his followers and
-supporters revealed a niche of very similar accounts. In them, my
+supporters revealed a niche of very similar accounts. On these, my
 potentially new protagonists were posing next to their work stations,
 writing comparable motivational quotes, and settling for similar
 commodity comforts: a motorbike, a guitar, an ergonomic chair, an
@@ -122,7 +122,7 @@ overpriced yoga ball. All of these profiles had enormous amounts of
 followers.
 
 Unwilling to let my reflections end there, I decided to reach out to my
-chosen protagonist. After introducing myself as a (senior)researcher on
+chosen protagonist. After introducing myself as a (senior) researcher on
 *Working Trends*, I told him I was interested in hearing more about the
 methods through which the production of work and the production of its
 online representation merge together within the culture of influencers.
@@ -132,9 +132,9 @@ motivation to wrap up my own coding projects in 2020*. Before asking
 actual work-related questions, I wanted to know his age.
 
 At the time of our conversation, he was almost eighteen. He told me that
-his interest in the tech & programming field dates back to when he was
+his interest in the tech & programming field dated back to when he was
 twelve. Passion led him to join a bootcamp school where senior
-developers taught kids the basics of programming of both hardware and
+developers taught kids the basics of programming both hardware and
 software. In his further coding endeavors, he focused on deepening his
 skills in HTML, CSS, and Javascript.[^13simplysmart_3] Learning faster than he had
 anticipated made him lose interest in the ever-present, collective
@@ -147,7 +147,7 @@ reached almost 40,000 users. User dependency made him upgrade the
 product to a Premium version, which also made it possible for users to
 support him in maintaining the service.[^13simplysmart_5] Working simultaneously at a
 company and a charity, his long-term goal was to make his products
-profitable enough to live off of them. He had been earning money since
+profitable enough to live off them. He had been earning money since
 he was sixteen, and continued to do so.
 
 But how does he manage to maintain his IG account and a K amount of
@@ -161,7 +161,7 @@ the programming community, all the while posting consistently. The
 digital maintenance of his IG account soon became a natural habit.
 
 When I complimented that his bio ‘I hack sh\*t together/ I’m a web
-developer & designer☝️’ sounds quite convincing to newbies like me, he
+developer & designer☝️’ sounded quite convincing to newbies like me, he
 confessed that he actually invented the trend of presenting himself as a
 young web developer at the age of fifteen. After writing ‘15-year-old
 Web Developer’ in his bio, it didn’t take long before other 15-year-olds
@@ -205,7 +205,7 @@ algorithm differently.
 
 Both examples of a web developer make it obvious that the ultimate form
 of any work is fashion.[^13simplysmart_6] Just *claim* to be a front-end web
-developer. Claim to be a full stack web developer. Claim to be a
+developer. Claim to be a full-stack web developer. Claim to be a
 creative developer. Claim to be a UX designer. Claim to be an expert.
 Claim to be a female web developer. Claim to be a creative coder. Claim
 to be a web architect. Claim to be a web artist. Claim to be a critical
@@ -251,7 +251,7 @@ long) break from coding, without a sense of guilt.
 
 [^13simplysmart_6]: ‘We live in a world with multiple timescales, all moving
     simultaneously but at different speeds. Brand calls it the order of
-    civilisation. Nature, or geological time, moves the slowest - like
+    civilisation. Nature, or geological time, moves the slowest—like
     the skater in the middle of the pinwheel. This is the rate at which
     glaciers carve out canyons or species evolve gills and wings—over
     eons. On the next level is culture, such as that of the Chinese or
@@ -266,7 +266,7 @@ long) break from coding, without a sense of guilt.
 
 [^13simplysmart_7]: ‘Personal content: I feel like they are considered 'smart' when
     they use a new partly unsupported experimental property that makes
-    my 2015 computer burn through hell but then they place a popup
+    my 2015 computer burn through hell, but then they place a pop-up
     telling me I don't deserve to get access to the content because I
-    don't want to throw away my decently functioning computer) for a new
+    don't want to throw away my decently functioning computer for a new
     one.’ — Unnamed Web Developer

@@ -16,8 +16,14 @@ Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
+————————————————————————————————————————
 
-# Bootcamp coding school
+*‘Slow and steady may not win the race, but programming is not a race.’ —
+Gerald Weinberg, The Psychology of Computer Programming*
+
+————————————————————————————————————————
+
+# Bootcamp Coding School
 
 Towards the end of 2018, I went to the gym. There, I bumped into my dear
 friend [*Clara*](https://www.clarapasteau.com/), whom I hadn’t seen
@@ -58,7 +64,7 @@ the participants would learn how to make complete websites from scratch
 course, the participants are expected to immediately apply for a
 traineeship position within a tech company. As soon as they’d start
 getting paid as a trainee, they would start paying back, in instalments,
-the remainder of the ‘ghost money’ (6.000 EUR) the coding school
+the remainder of the ‘ghost money’ (6,000 EUR) the coding school
 invested in them upon their application. The duration of the payback
 time was negotiable, but preferably within the first six months of a
 traineeship.
@@ -84,7 +90,7 @@ components demanding agreement, the user is excluded from accessing the
 information they’re trying to access. To the web developer who
 integrates ads, cookies, and other engaging digital components on their
 website, the non-compliant user doesn’t exist. When coding, the question
-he worries about is not ‘What if they don’t want to click?’, but ‘How do
+he worries about is not ‘What if they don’t want to click?’ but ‘How do
 I make them click?’
 
 Imagining the role of the user in meeting the conditions of such an
@@ -104,7 +110,7 @@ exactly his words.
     seemed to be a field too fresh to have a history of creative input
     from an artistic perspective.
 
-[^11bootcampcodingschool_2]: 1344 EUR
+[^11bootcampcodingschool_2]: 1,344 EUR
 
 [^11bootcampcodingschool_3]: ‘Putting a bunch of people to work on the same problem doesn’t
     make them a team—as the sloppy performance in all-star games should

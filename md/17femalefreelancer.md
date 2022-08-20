@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# female Freelancer
+# Female Freelancer
 
 > *\*(falling action) Don’t doubt the subject’s feminism\**
 
@@ -28,7 +28,7 @@ If someone is to go to the moon let me sing you a love song
 
 Let it be me
 
-— Ariana Reines, *A Sand Book*, ‘The Long Love That In My Thought Doth
+— Ariana Reines, *A Sand Book*, ‘The Long Love that in my Thought Doth
 Harbor’
 
 In 2021 I was very much flirting with the idea of building my own
@@ -75,7 +75,7 @@ a gap, solve a problem, quick, fail-proof.
 
 For example: in tech corporations and start-ups, where the teams consist
 of mostly men, a female web developer enters the team as an added
-‘light-energy’. Where the team’s goal is focused on the technical
+‘light energy’. Where the team’s goal is focused on the technical
 progress, a female web developer injects the milestones with her
 decorative, design touch. Most of the time, she does so in the tasks
 related to the project’s documentation, presentation, and revision—the
@@ -88,13 +88,13 @@ This power woman image threw me into the depths of identity politics
 more than the basics of software development—which, truth be told, is
 what got me excited about the plan in the first place. The burden of our
 software, no matter how technologically crafted, would be its
-representation cornering us in the thread that continues equal
+representation, cornering us in the thread that continues around the equal
 positioning of women in the history of technology. It would also corner
 us into celebrating the fact that women *invented* the classification
 system; that men got recognition for it *before* women started doubting
 whether it’s the best system; that even though women were the ones
 entirely writing the programs that enabled machines to work, they were
-kept on the sidelines (Do you remember the term ‘kilo-girl’—1.000 hours
+kept on the sidelines (Do you remember the term ‘kilo-girl’—1,000 hours
 of computing labor—in the 1940s? No? Look it up.)
 
 I don’t want my main role in web development to be the constant
@@ -104,15 +104,15 @@ commemorating those women who contributed to computing throughout the
 history (1700s, a gap, then 1900s till present day), here is a full list
 of these women worth remembering from a publication called *Computers at
 Work*: Nicole Reine Lepaure (built a clock for astronomical
-observations), Ada Lovelace (first computer programmer), Anna Winlock
+observations); Ada Lovelace (first computer programmer); Anna Winlock
 (mapped the universe for 2 cents/hour, which was half a man’s pay back
-then), Antonia Maury (improved the system of classification by
-redesigning it), Annie Jump Cannon (developed a stellar classification
-system: Harvard Classification Scheme),[^17femalefreelancer_3] Henrietta Swan Leavitt
-(discovered galaxies beyond the Milky Way), Dorothy Vaughan (NACA’s
-first black manager; self-taught in FORTRAN, prepared her staff for the
-transition from human to machine computers), Mary Jackson (NASA’s first
-black female engineer), Katherine Johnson, ENIAC (Kathleen McNulty Antonelli, Jean Jennings Bartik, Betty Snyder Holberton, Marlyn Wescoff Meltzer, Ruth Lichterman Teitelbaum, Frances Bilas Spence), Kathleen Booth, Grace Murray Hopper, Margaret Hamilton, Mary Kenneth Keller, Katie Bouman, and Donna Strickland.
+then); Antonia Maury (improved the system of classification by
+redesigning it); Annie Jump Cannon (developed a stellar classification
+system, namely the Harvard Classification Scheme);[^17femalefreelancer_3] Henrietta Swan Leavitt
+(discovered galaxies beyond the Milky Way); Dorothy Vaughan (NACA’s
+first black manager, self-taught in FORTRAN, prepared her staff for the
+transition from human to machine computers); Mary Jackson (NASA’s first
+black female engineer); Katherine Johnson; ENIAC (Kathleen McNulty Antonelli, Jean Jennings Bartik, Betty Snyder Holberton, Marlyn Wescoff Meltzer, Ruth Lichterman Teitelbaum, and Frances Bilas Spence); Kathleen Booth; Grace Murray Hopper; Margaret Hamilton; Mary Kenneth Keller; Katie Bouman, and Donna Strickland.
 
 Extending this list with Clara would end up proving that we’re competent
 enough for the industry. Doing ‘average’ development would disqualify us
@@ -187,7 +187,7 @@ and atrocities unfolding in the world, as an ethically viable option?’
 > *\*(rising action again) Hmm, but what does the subject want????\**
 
 I want to be free (from feedback loops), and I want others to be free,
-too. [^17femalefreelancer_8] Demanding freedom4all seems too naive here. The constraints
+too.[^17femalefreelancer_8] Demanding freedom4all seems too naive here. The constraints
 from which any urgency is born requires addressing its demands through
 its relations to the neighboring factors (such as alienation, agency,
 self-governance, survival, consumption, power, class) and which, I
@@ -202,7 +202,7 @@ disinterests, or aversions, be it over the course of an encounter or a
 lifetime, is our truer calling?’
 
 Were I to speak from a defined and more developed role (of a writer, web
-developer, artist), would I dare to materialize these ambiguities I have
+developer, artist) would I dare to materialize these ambiguities I have
 found within my own dubious relationships with these practices? In the
 end, it really doesn’t matter if you’re a stoic man, a female web
 developer or if you’ve developed your own software, what extravagant
@@ -230,13 +230,13 @@ my own usership, it is that of personal liberation from the circles I
 found harsh while dwelling on the internet. And that the amount of
 knowledge I’ve gained from writing this book summarizes not only the
 level of my commitment to the subject(s), but also the context I am
-writing from: my social status, the gain and/ or lack of my freelance
+writing from: my social status, the gain and/or lack of my freelance
 gigs, my female ambiguity, my questionable convincing skills, plus the
 fact that sometimes, when the world around me gets too loud, starving is
 still my default defense mechanism.
-
-\*fadeout\*
-
+<br><br><br><br><br><br>
+<center>\*fadeout\*</center>
+<br><br><br><br><br><br>
 [^17femalefreelancer_1]: ‘When an uncontainable artist’s influence won’t go away, art
     history compromises by constructing hagiographies. At least that way
     the vision is contained. But you have to keep reminding yourself of
@@ -246,14 +246,14 @@ still my default defense mechanism.
 
 [^17femalefreelancer_2]: Hiring a female web developer gives a good image/face to the
     ecosystem where she’s been given a chance. She’s made to believe
-    that she is the architect of her temple(exquisite), capable of being
+    that she is the architect of her temple (exquisite), capable of being
     in control over her money, time, decisions, selfhood, and soul. And
     all of that shall tame her enough to not resist the aesthetic. But
     when she does, the aesthetic will either kick her out of its
     mechanism, or it will be adjusted by professionals to suit her.
 
 [^17femalefreelancer_3]: Stars were organized into classes using seven letters: O, B, A, F,
-    G, K, and M (abbreviation of Oh! Be a Fine Girl - Kiss Me!).
+    G, K, and M (abbreviation of Oh! Be a Fine Girl—Kiss Me!).
 
 [^17femalefreelancer_4]: In *Bitch*, Elizabeth Wurtzel describes the men Amy Fisher was
     surrounded by: ‘It seems that whenever people deal with the world in
@@ -284,8 +284,8 @@ still my default defense mechanism.
     Concepts’) of *All Watched Over by the Machine’s of Loving Grace*,
     Adam Curtis explains cybernetics: ‘Cybernetics said that everything,
     from human brains to cities and even entire societies, could be seen
-    as systems regulated and governed by feedback…it seemed to offer a
-    new insight into how order is maintained in the world…Cybernetics
+    as systems regulated and governed by feedback… it seemed to offer a
+    new insight into how order is maintained in the world… Cybernetics
     saw human beings not as individuals in charge of their own destiny,
-    but as components in systems…They were just nodes in networks,
+    but as components in systems… They were just nodes in networks,
     acting and resting to flows of information.’

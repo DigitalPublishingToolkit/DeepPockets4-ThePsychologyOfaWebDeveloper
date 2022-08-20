@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Scott gives me an assignment
+# Scott Gives Me an Assignment
 
 > Where the capitalist class sees education as a means to an end, the
 > vectoralist[^14scottgivesmeanassignment_1] class sees it as an end in itself. It sees
@@ -56,39 +56,27 @@ make something happen (clicking) in order to extract bits. The question
 behind a what-if situation can be answered with at least three
 solutions. For example:
 
-What if the user doesn’t have friends?
+What if the user doesn’t have friends?<br>
+1. Remind them.<br>
+2. Propose to connect their friends’ list from another platform.<br>
+3. Suggest a friend.
 
-Remind them.
+What if the user doesn’t go to an event?<br>
+1. Perhaps they could be interested in updates about said event?<br>
+2. You don’t have to go but you can follow the event, which is part of a
+series, so maybe you can go next time.<br>
+3. Are you sure?
 
-Propose to connect their friends’ list from another platform.
+What if the user doesn’t react to the picture of a cat?<br>
+1. Here is a cuter cat.<br>
+2. How about a reduced amount of cat content?<br>
+3. But all your friends like it!
 
-Suggest a friend.
-
-What if the user doesn’t go to an event?
-
-Perhaps they could be interested in updates about said event?
-
-You don’t have to go but you can follow the event, which is part of a
-series, so maybe you can go next time.
-
-Are you sure?
-
-What if the user doesn’t react to the picture of a cat?
-
-Here is a cuter cat.
-
-How about a reduced amount of cat content?
-
-But all your friends like it!
-
-What if the user doesn’t move the cursor?
-
-Wait for seven seconds, then show a video of a cursor on steroids. The
-longer the hovering, the bigger the cursor will grow.
-
-Wait for seven seconds, then make the menu bounce.
-
-Just let the ad appear with a big X button.
+What if the user doesn’t move the cursor?<br>
+1. Wait for seven seconds, then show a video of a cursor on steroids. The
+longer the hovering, the bigger the cursor will grow.<br>
+2. Wait for seven seconds, then make the menu bounce.<br>
+3. Just let the ad appear with a big X button.
 
 By answering these questions, the web developer’s forever-aim is to make
 the user *do* something and populate the website with information that
@@ -132,19 +120,19 @@ understood by all.
 Unsure whether I sensed his pride, or simply guilt for giving me work he
 would rather not do himself, I directly followed Scott’s instructions.
 My task was to write sentences that point out the user’s inactivity and
-~~trigger the user to generate data~~ motivate the user to share
+<s>trigger the user to generate data</s> motivate the user to share
 references, go to events, connect, and contribute to the overall
 knowledge production.
 
 As a reaction to my excitement, Scott preached how user motivation could
 only be achieved through a language that *avoids* literally describing
-what the user isn’t doing, but rather describing the consequences of
+what the user isn’t doing, but rather describes the consequences of
 their inactivity on the platform.
 
 I *roger’ed* that. I used it as a mantra throughout the whole working
 day, which I spent writing a presentable version of the following list:
 
-There are no upcoming courses you’re a follower of. (FACT)
+<center>There are no upcoming courses you’re a follower of. (FACT)
 
 You are not following any upcoming courses. (FACT)
 
@@ -192,9 +180,9 @@ You are not following any course related to this basket yet.
 
 You are not a part of any basket related to any courses.
 
-You are not.
+You are not.</center>
 
-It took a rather long time because I hated it, for similar reasons as I
+It took a rather long time because I hated it, for similar reasons as to why I
 hate Wordle.[^14scottgivesmeanassignment_2] While re-reading my written suggestions what bothered
 me most was the impersonal tone behind them. Somehow, I couldn’t make
 them sound as if they were written by Scott’s guts, or crafted by his
@@ -205,7 +193,7 @@ sense for it.
 But let’s get one thing clear: within the web development scene, it
 doesn’t matter if politeness is a manner exercised in a web developer’s
 daily life. It’s a globally recognized strategy for building a platform.
-If he doesn’t make his product speak politely to the user, in order to
+If he doesn’t make his product speak politely to the user in order to
 get the so desired bits, the product is at risk of sounding either too
 feminine or too authoritative—the two tones that, by 2022’s default,
 carry the risk of the user’s flight mode. Let’s deconstruct these web
@@ -215,23 +203,23 @@ Feminine-sounding software doesn’t shy away from using their technical
 weak points as a digital marketing tool. Here’s an example of how they
 intentionally sound vulnerable:
 
-Whoops 😅. Please keep on patiently clicking the button until it works!
+<center>Whoops 😅. Please keep on patiently clicking the button until it works!</center>
 
 At the other end of the spectrum, we see an authoritative tone in some
 software that triggers fantasies of digital suicides, but never their
 commitment:
 
-It’s someone’s birthday. Help them have a blast!
+<center>It’s someone’s birthday. Help them have a blast!
 
 or
 
-Are you aware that \[user name\]’s post was liked over 10 times already?
+Are you aware that \[user name\]’s post was liked over 10 times already?</center>
 
-One user, confronted with his inability to opt-out, texted me: Fuck
-Insta, but I’m still on it. Fuck smartphones, but I still own one.
+One user, confronted with his inability to opt-out, texted me: *Fuck
+Insta, but I’m still on it.* Fuck smartphones, but I still own one.
 
 The neutral, polite tone of software protects it from sounding
-different— sounding like too much of something. The factual tone of
+different—sounding like too much of something. The factual tone of
 politeness targets devotion of a user (who, if you recall, I’ve
 introduced before) and who needs to be promised that, as a respected
 client on the platform, their needs are constantly taken into account.
@@ -265,7 +253,7 @@ shaped by the statistics generated from their compliance.
 
 Please read:
 
-There are no baskets you’re part of related to this course.
+<center>There are no baskets you’re part of related to this course.</center>
 
 The sentence suggests that the reason why I’m here (following the
 courses I want, in order to be a good student) is inherently linked to
@@ -292,7 +280,7 @@ generating traffic, they soon become dependent on platforms that store
 and organize their data for them. Naughty baskets!
 
 This is not really news, so let’s not dwell on these findings for too
-long. What I’m more interested in is looking at the impact of this user
+long. What I’m more interested in, is looking at the impact of this user
 dependency on polite software and the fashion of our conversations in
 real life. (And in stating ‘our’, I am in fact stating that we’re *all*
 users, including web developers.)

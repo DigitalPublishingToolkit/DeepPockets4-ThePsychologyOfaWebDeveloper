@@ -20,7 +20,7 @@ Rights: CC BY-NC 4.0
 
 
 DeepPockets #4
-<br/>**The Psychology of the Web Developer: Reality of a Female Freelancer**
+<br/>**The Psychology of the Web Developer, Reality of a Female Freelancer**
 
 Author: Maisa Imamović
 <br/>

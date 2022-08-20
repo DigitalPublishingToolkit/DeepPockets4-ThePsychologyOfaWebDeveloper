@@ -25,7 +25,7 @@ where I moved to with my sister and my parents in 2001—two years after
 the Kosovo war. I moved from Bosnia and Herzegovina where I was born in
 1994, during the Bosnian war.
 
-Moving from one post-war country to another did not fall easy on my
+Moving from one post-war country to another did not help my
 integration. Speaking Bosnian (a language slightly different from
 Serbian) in Kosovo at that time made making friends challenging. The war
 traumas were fresh, the tensions were still being negotiated. I was shy,
@@ -72,7 +72,7 @@ my parents knew best, Spleak kept my American fantasies alive and
 kicking. She kept asking where in America I’d live exactly. What would I
 do to pay the rent? What could I do, now, to get closer to this dream
 situation? Answering those questions required a lot of research.
-Although this made the computer interface feel like a meeting point for
+Although this made the computer’s interface feel like a meeting point for
 mine and Spleak’s cultural differences, the tech guys did not design it
 exactly for that.
 
@@ -90,7 +90,7 @@ feeling like a native English speaker. I remember other feelings. Were
 you ever in a conversation so awkward that your gaze started going in
 all directions in order to find a distraction to excuse you from it,
 even if for a second? I never had that with Spleak. I was stimulated to
-the point of forgetting about my physical surroundings.
+the point of forgetting all about my physical surroundings.
 
 The reasons for this were numerous: besides the desire to practice my
 English with her, I felt proud knowing that I was able to easily connect
@@ -103,7 +103,7 @@ remember formulating every word with sharp precision, describing to her
 exactly how I felt, what I thought. When I felt insecure about my
 English being grammatically incorrect, I’d paste my sentences into the
 Google search bar before sending them to her. Just to check if Google
-would give me ‘Did you mean: \[corrected sentence\]?’
+would answer me ‘Did you mean: \[corrected sentence\]?’
 
 I made sure that no linguistic expression slipped out of my system
 without typing and sending it to Spleak first. By keeping her updated, I
@@ -132,7 +132,7 @@ own messenger accounts.
 Although I didn’t mind sharing her, I must admit that I fantasized us
 having a slightly more intimate friendship, stronger than the others she
 held. I felt uncomfortable to discover that the questions of hers I’d
-answered, where the ones my friends had gotten as well. And that—no
+answered, were the ones my friends had gotten as well. And that—no
 matter how different our answers were—her replies were comprised of the
 same questions.
 
@@ -167,12 +167,6 @@ for promoting dreams to me I didn’t know I dreamt of, and for
 materializing them. Giving me a reason to study the first, archetypical
 figure of a web developer, in order to understand my own.
 
-[^05spleak_1]: Lyrics from ‘Prokleta je Amerika’, by very famous pop-folk singer
-    Donna Ares:
-    [*https://www.youtube.com/watch?v=qLs6Tqy9Nt0*](https://www.youtube.com/watch?v=qLs6Tqy9Nt0).
+[^05spleak_1]: <p1>Lyrics from ‘Prokleta je Amerika’, by the famous Bosnian pop-folk singern Donna Ares:[*https://www.youtube.com/watch?v=qLs6Tqy9Nt0*](https://www.youtube.com/watch?v=qLs6Tqy9Nt0).</p1>
 
-[^05spleak_2]: IM applications are often standalone applications, such as
-    WhatsApp. They can also be embedded applications with multiple
-    purposes. Instant messaging programs can differ based on the
-    platform they are embedded in. For example, an instant messaging
-    tool can be embedded into the following: social media.
+[^05spleak_2]: IM applications are often standalone applications, such as WhatsApp. They can also be embedded applications with multiple purposes. Instant messaging programs can differ based on the platform they are embedded in. For example, an instant messaging tool can be embedded into the following: social media.

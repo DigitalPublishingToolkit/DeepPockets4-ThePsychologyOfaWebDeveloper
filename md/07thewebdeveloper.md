@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# The web developer
+# The Web Developer
 
 Meet Scott, Larry’s ‘boss’. To understand what makes Scott the kind of
 web developer he is today, it’s important to understand his context.
@@ -45,7 +45,7 @@ organized system; a content management system. An urgent, still to be
 defined plan erupted in his mind. This is approximately what Scott’s
 plan looked like:
 
-<u>Step one: Understanding the machine[^07thewebdeveloper_1]</u>
+<u>Step One: Understanding the Machine[^07thewebdeveloper_1]</u>
 
 The first three years are the most important ones, during which I am to
 shape the foundation of my practice. To gain a better understanding of
@@ -55,7 +55,6 @@ I shall remember that it’s important to have fun coding and that
 overconfidence may lead to blind self-destruction. At times, when I feel
 smarter than the machine, I shall pull myself out of the expert’s skin,
 for the machine would take advantage of the consequential confidence,
-
 and crash *me*.
 
 I shall not feel smarter than the machine.
@@ -66,11 +65,11 @@ frameworks’ I will of course want to master. In the first three years of
 my quest, I shall continue my research in the hours available to me
 after those spent on commissioned work.
 
-In the third year, I shall settle for my techne-pack: my favourite
-programming language, my favourite tools, my favourite technologies, my
-favourite commands.
+In the third year, I shall settle for my techne-pack: my favorite
+programming language, my favorite tools, my favorite technologies, my
+favorite commands.
 
-<u>Step two: Becoming the machine</u>
+<u>Step Two: Becoming the Machine</u>
 
 I shall enter the fourth year of my life as a coder with skills
 sufficient enough to build a product, and an imagination wild enough to
@@ -86,7 +85,7 @@ I want my clients to say *yes* to my product already halfway through the
 product’s build-up. Let them come to me once they’ve decided to finally
 dissociate themselves from WordPress.
 
-<u>Step three: Beating the machine</u>
+<u>Step Three: Beating the Machine</u>
 
 It is now the seventh year of my life as a coder. I understand
 absolutely every syllable of gibberish the machine utters and when I
@@ -94,17 +93,19 @@ don’t, I am able to give it commands to switch to *my* language.
 
 My product is ready to be launched and my clients are waiting in line.
 
-No client’s demands, complaints, or deadlines, shall make me build in
-WordPress, ever again. Between my product and my client, I shall
+No client’s demands, complaints, or deadlines shall make me build in
+WordPress ever again. Between my product and my client, I shall
 always—*always* choose my product.
 
 The Client agrees to the terms and conditions set forth above as
 demonstrated by their signature as follows:
 
 Name:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Location:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Signature:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Location:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Signature:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-<u>All other steps: A Stoic Man</u>[^07thewebdeveloper_2]
+<u>All Other Steps: A Stoic Man</u>[^07thewebdeveloper_2]
 
 After ten years of my life as a coder, I shall start charging for all
 unpaid hours spent on building the software after hours. My clients will

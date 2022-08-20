@@ -90,10 +90,10 @@ up, I found myself questioning my research methods. This discontent led
 me to look beyond Google’s *All Images* and peruse for information in
 the web’s gutter. I was specifically interested in finding images with
 extraordinary gestures of guitar smashing, facial expressions, middle
-fingers, and preaching about stuff in some sort of a punk style. I
+fingers, and preaching about stuff in some sort of punk-style. I
 managed to compile a folder depicting who I believed Avril *really* was,
 or at least who she had been at the start of her career. Finding these
-gems lead me to one day ‘become a winner’; again, whatever that
+gems would lead me to one day ‘become a winner’; again, whatever that
 entailed. Soon enough, the internet became a visible, rather tangible
 matter within my local surrounding: bracelets, pink highlights, skull
 prints, and chains. Skinny necks and wrists.
@@ -102,7 +102,7 @@ prints, and chains. Skinny necks and wrists.
 > vectoralist class sees it as an end in itself. It sees opportunities
 > to make education a profitable industry in its own right, based on the
 > securing of intellectual property as a form of private property. To
-> the vectoralists, education, like culture, is just ‘content’ for
+> the vectoralists, education, like culture, is just “content” for
 > commodification.
 >
 > — McKenzie Wark, *A Hacker’s Manifesto*
@@ -151,19 +151,19 @@ was told similarly:
 >
 > (rising action) Until they discovered Ana online,
 >
-> (climax) Then scaled down to their lowest weight (average was 112lbs)
+> (climax) Then scaled down to their lowest weight (average was 112 lbs)
 >
 > (falling action) Ended up in a hospital,
 >
 > (conclusion) And finally went back to being healthy and normal.
 
-A lot of the stories were not fully developed before they were shared.
+A lot of these stories were not fully developed before they were shared.
 If an Ana video story ended with the disorder’s climax—the lowest
 weight—it meant that the situation will end in one of two ways:
 recovery, or death. There was something alluring about a video ending
 with an established definition of the climax point. Elaborate were my
 many speculations about how their stories ended. I nourished the need to
-discover how the story ended, and kept going back to some of YouTube
+discover how the story ended, and kept coming back to some of the YouTube
 accounts.
 
 Most of the sufferers were my age and came from America, a land I
@@ -202,7 +202,7 @@ own body—for this process was very tricky to beat. It was the
 malnutrition, which stopped me from practicing other passions I found
 more important in life. Next to this, it was the moment I read the
 *unable-to-recover* story of a 30-plus mother lamenting about the mental
-pitfalls of eating disorders, hoping it wouldn’t pass down to her
+pitfalls of eating disorders, hoping she wouldn’t pass it on to her
 daughter. It was her story that got lost in the thread, because she
 didn’t specify how much she weighed, nor how many calories she ate per
 day.
@@ -249,10 +249,10 @@ strangely fulfilled.
 [^12anorexia_5]: Ana is Anorexia. Similarly Bulimia is Mia, and Eating Disorder is,
     if not otherwise specified, Ednos.
 
-[^12anorexia_6]: The most popular song being ‘She’s falling apart’ by Lisa Loeb
+[^12anorexia_6]: The most popular song being ‘She’s Falling Apart’ by Lisa Loeb
     [*https://www.youtube.com/watch?v=FS48eB3NAKI*](https://www.youtube.com/watch?v=FS48eB3NAKI).
 
-[^12anorexia_7]: For a 177cm tall person, this was bad, it amounts to a BMI of
+[^12anorexia_7]: For a 177 cm tall person, this was bad, it amounts to a BMI of
     14,3. A BMI below 17.5 in adults is one of the common physical
     characteristics used to diagnose anorexia. There are also different
     tiers of anorexia based on BMI ranging from mild (&lt;17.5),

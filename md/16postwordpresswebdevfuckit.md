@@ -17,13 +17,12 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Post-Wordpress web-dev, FUCK IT.
+# Post-Wordpress Web-dev, Fuck It.
 
 Psst, it’s me. Your Post-WordPress web developer. Yeah, I’ll tell you a
 bit more about my story.
 
-> *\*(intro) What did the subject look like as a healthy and normal
-> person?\**
+<center>*\*(intro) What did the subject look like as a healthy and normal person?\**</center>
 
 It all started the day I created my first social media account. Having
 an account brought along with it the possibility to fill up my gallery
@@ -77,7 +76,7 @@ deadlines extremely tight.
 Because I felt rushed, I used theme-building helpers (such as Divi) to
 meet the client’s expectations in time. The design would highly depend
 on the limitations and freedoms of the software’s given functionalities:
-using theme builders that had an easy drag and drop functionality to
+using theme builders that had an easy drag-and-drop functionality to
 create the looks of a digital space constrained my creative output. The
 limited possibilities these builders provided was not satisfying enough
 to feel creatively fulfilling to someone who wanted to break out of the
@@ -100,10 +99,10 @@ some point started making me feel average.
 As I was building websites, it seemed to me that the software was
 updating itself according to the user’s needs really fast, and that
 whatever users lacked in their editing freedom soon became an option in
-a plugin library: a true catering to their needs. It is true that
+a plug-in library: a true catering to their needs. It is true that
 WordPress software updates not only grow alongside the needs of its
 user, but also follow the web developer’s imagination, which, when
-turned into a plug-in, can be uploaded to the WordPress Plugin library.
+turned into a plug-in, can be uploaded to the WordPress Plug-in library.
 That’s what open-source means; contributors add themes and plug-ins to
 it, for software improvement. ‘All technology reflects the society that
 produces it, including its power structures and prejudices.’ — Douglas
@@ -132,7 +131,7 @@ inhabitant or citizen, the user, and their individual taste. Our
 collaboration would mean meeting and building each other’s differences,
 on whatever interface necessary.[^16postwordpresswebdevfuckit_1]
 
-The *Post* in my title refers to the fact that even though I am aware of
+The *post* in my title refers to the fact that even though I am aware of
 the WordPress cringe, it’s the tool I choose to operate with despite its
 reputation. That in my productivity I have found liberation, not
 software enslavement; that WordPress will succumb to my needs and
@@ -142,57 +141,62 @@ with my client.
 Here comes an example of my liberation. The following code was written
 for the client’s portfolio website and in agreement with the client:
 
-&lt;details&gt;
+<p2>&lt;details&gt;</p2>
 
-> &lt;summary style="margin-left: 50%"&gt;editor&lt;/summary&gt;
->
-> &lt;?php \$loop = new WP\_Query( array( 'post\_type' =&gt; 'editor',
-> 'posts\_per\_page' =&gt; 10 ) );
->
-> if ( \$loop-&gt;have\_posts() ):
->
-> while ( \$loop-&gt;have\_posts() ) : \$loop-&gt;the\_post();
->
-> ?&gt;
->
-> &lt;details class="secondary-details"&gt;
->
-> &lt;summary class="project" id="editor-project"
-> onclick="editorProjectTop()"&gt;&lt;?php the\_title('⊃&nbsp;');
-> ?&gt;&lt;/summary&gt;
->
-> &lt;div class="entry-content"&gt;
->
-> &lt;?php the\_content(); ?&gt;
->
-> &lt;/div&gt;
->
-> &lt;div class="mode-buttons"&gt;
->
-> &lt;button class="feel-btn" onclick="editorProjectTop()"&gt;see, hear,
-> sense&lt;/button&gt;
->
-> &lt;button class="read-btn"
-> onclick="editorProjectTop()"&gt;read&lt;/button&gt;
->
-> &lt;/div&gt;
->
-> &lt;/details&gt;
->
-> &lt;?php endwhile;
->
-> else: ?&gt;
->
-> &lt;p&gt;&lt;?php echo '&lt;div
-> class=“void"&gt;&lt;/div&gt;’;?&gt;&lt;/p&gt;
->
-> &lt;?php endif;
->
-> wp\_reset\_query();
->
-> ?&gt;
+<p2>&emsp; &lt;summary style="margin-left: 50%"&gt;editor&lt;/summary&gt;</p2>
 
-&lt;/details&gt;
+<p2>&emsp; &lt;?php \$loop = new WP\_Query( array( 'post\_type' =&gt; 'editor',
+&emsp; 'posts\_per\_page' =&gt; 10 ) );</p2>
+
+
+<p2>&emsp; if ( \$loop-&gt;have\_posts() ):</p2>
+
+<p2>&emsp;&emsp; while ( \$loop-&gt;have\_posts() ) : \$loop-&gt;the\_post();</p2>
+
+<p2>&emsp;&emsp; ?&gt;</p2>
+
+<p2>&emsp;&emsp; &lt;details class="secondary-details"&gt;</p2>
+
+<p2>&emsp;&emsp; &lt;summary class="project" id="editor-project"</p2>
+
+<p2>&emsp;&emsp; onclick="editorProjectTop()"&gt;&lt;?php the\_title('⊃&nbsp;');</p2>
+
+<p2>&emsp; ?&gt;&lt;/summary&gt;</p2>
+
+<p2>&emsp;&emsp;&emsp; &lt;div class="entry-content"&gt;</p2>
+
+<p2>&emsp;&emsp;&emsp;&emsp; &lt;?php the\_content(); ?&gt;</p2>
+
+<p2>&emsp;&emsp;&emsp; &lt;/div&gt;</p2>
+
+<p2>&emsp;&emsp;&emsp; &lt;div class="mode-buttons"&gt;</p2>
+
+<p2>&emsp;&emsp;&emsp;&emsp; &lt;button class="feel-btn" onclick="editorProjectTop()"&gt;see, hear,
+&emsp; sense&lt;/button&gt;</p2>
+
+<p2>&emsp;&emsp;&emsp;&emsp; &lt;button class="read-btn"</p2>
+
+</p2>&emsp; onclick="editorProjectTop()"&gt;read&lt;/button&gt;</p2>
+
+<p2>&emsp;&emsp;&emsp; &lt;/div&gt;</p2>
+
+<p2>&emsp;&emsp; &lt;/details&gt;</p2>
+
+<p2>&emsp; &lt;?php endwhile;</p2>
+
+
+<p2>&emsp; else: ?&gt;</p2>
+
+<p2>&emsp;&emsp; &lt;p&gt;&lt;?php echo '&lt;div&emsp; class=“void"&gt;&lt;/div&gt;’;?&gt;&lt;/p&gt;</p2>
+
+<p2>&emsp; &lt;?php endif;</p2>
+
+
+<p2>&emsp; wp\_reset\_query();</p2>
+
+<p2>&emsp; ?&gt;</p2>
+
+<p2>&lt;/details&gt;</p2>
 
 The code indicates that there is a button called ‘editor’ on the
 website, which is one of the professional roles that define the client’s
@@ -231,79 +235,80 @@ Adding to this, I must say my creativity depends on other people. I
 found and copy-pasted the simplest HTML/CSS/Javascript code of a
 whack-a-mole (by Ania Kubów) and decided to change the code according to
 my friends’ answers to the question: *If you could whack one thing for
-the rest of your life, what would it be? *
+the rest of your life, what would it be?*
 
 One of the answers was Facebook:
 
-&lt;body&gt;
+<p2>&lt;body&gt;
 
-&lt;header&gt;
+>&lt;header&gt;
 
-&lt;div class="display-flex"&gt;
+>>&lt;div class="display-flex"&gt;
 
-&lt;p&gt;Facebook killed:&lt;/p&gt;
+>>>&lt;p&gt;Facebook killed:&lt;/p&gt;
 
-&lt;p id="score"&gt;0&lt;/p&gt;&lt;p&gt; times.&lt;/p&gt;
+>>>&lt;p id="score"&gt;0&lt;/p&gt;&lt;p&gt; times.&lt;/p&gt;
 
-&lt;/div&gt;
+>>&lt;/div&gt;
 
-&lt;div class="display-flex"&gt;
+>>&lt;div class="display-flex"&gt;
 
-&lt;p&gt;Time Left:&lt;/p&gt;
+>>>&lt;p&gt;Time Left:&lt;/p&gt;
 
-&lt;p id="time-left"&gt;666&lt;/p&gt;
+>>>&lt;p id="time-left"&gt;666&lt;/p&gt;
 
-&lt;/div&gt;
+>>&lt;/div&gt;
 
-&lt;/header&gt;
+>&lt;/header&gt;
 
-&lt;div class="grid"&gt;
+>&lt;div class="grid"&gt;
 
-&lt;div id="1" class="square"&gt;&lt;/div&gt;
+>>&lt;div id="1" class="square"&gt;&lt;/div&gt;
 
-&lt;div id="2" class="square"&gt;&lt;/div&gt;
+>>&lt;div id="2" class="square"&gt;&lt;/div&gt;
 
-&lt;div id="3" class="square facebook"&gt;&lt;/div&gt;
+>>&lt;div id="3" class="square facebook"&gt;&lt;/div&gt;
 
-&lt;div id="4" class="square"&gt;&lt;/div&gt;
+>>&lt;div id="4" class="square"&gt;&lt;/div&gt;
 
-&lt;div id="5" class="square"&gt;&lt;/div&gt;
+>>&lt;div id="5" class="square"&gt;&lt;/div&gt;
 
-&lt;div id="6" class="square"&gt;&lt;/div&gt;
+>>&lt;div id="6" class="square"&gt;&lt;/div&gt;
 
-&lt;div id="7" class="square"&gt;&lt;/div&gt;
+>>&lt;div id="7" class="square"&gt;&lt;/div&gt;
 
-&lt;div id="8" class="square"&gt;&lt;/div&gt;
+>>&lt;div id="8" class="square"&gt;&lt;/div&gt;
 
-&lt;div id="9" class="square"&gt;&lt;/div&gt;
+>>&lt;div id="9" class="square"&gt;&lt;/div&gt;
 
-&lt;div id="10" class="square"&gt;&lt;/div&gt;
+>>&lt;div id="10" class="square"&gt;&lt;/div&gt;
 
-&lt;div id="11" class="square"&gt;&lt;/div&gt;
+>>&lt;div id="11" class="square"&gt;&lt;/div&gt;
 
-&lt;div id="12" class="square"&gt;&lt;/div&gt;
+>>&lt;div id="12" class="square"&gt;&lt;/div&gt;
 
-&lt;div id="13" class="square"&gt;&lt;/div&gt;
+>>&lt;div id="13" class="square"&gt;&lt;/div&gt;
 
-&lt;div id="14" class="square"&gt;&lt;/div&gt;
+>>&lt;div id="14" class="square"&gt;&lt;/div&gt;
 
-&lt;div id="15" class="square"&gt;&lt;/div&gt;
+>>&lt;div id="15" class="square"&gt;&lt;/div&gt;
 
-&lt;/div&gt;
+>&lt;/div&gt;<br>
 
-&lt;footer&gt;
 
-&lt;p&gt;
+>&lt;footer&gt;
 
-\[person\] undoubtedly wants to whack Facebook all the time, and for a
+>>&lt;p&gt;
+
+>>>\[person\] undoubtedly wants to whack Facebook all the time, and for a
 long time. &lt;br&gt;
 
-Is your name not \[person\] &lt;a href="/index.html"&gt;My name is not
+>>>Is your name not \[person\] &lt;a href="/index.html"&gt;My name is not
 \[person\].&lt;/a&gt;&lt;/p&gt;
 
-&lt;/footer&gt;
+>&lt;/footer&gt;
 
-&lt;/body&gt;
+&lt;/body&gt;<p2>
 
 This is the body of a web page that was built to show the score (how
 many times Facebook was whacked); above it one can see the countdown
@@ -316,32 +321,32 @@ this evil, Zuckerberg-spawn thing.
 The code was adjusted to the \[person\]’s specific desires in whacking
 Facebook, which was done in the following ways: even though the timer’s
 countdown started counting down from 666 seconds, there was, if desired,
-additional time given for completion of the mission (1.000 seconds).
+additional time given for completion of the mission (1,000 seconds).
 Next to this, the Facebook logo would hang around in one of the grid’s
 squares, long enough to shoot it. It was rather impossible to miss.
 Unfortunately, the message at the end of the countdown reminds the user
 that, despite their astonishing scores, Facebook still exists.
 
-function countDown() {
+<p2>function countDown() {
 
-currentTime--
-
-timeLeft.textContent = currentTime
-
-if (currentTime == 0) {
-
-clearInterval(countDownTimerId)
-
-clearInterval(timerId)
-
-alert('There is no time left to whack Facebook. Despite your score of: '
+>currentTime--
+>
+>timeLeft.textContent = currentTime
+>
+>if (currentTime == 0) {
+>
+>>clearInterval(countDownTimerId)
+>
+>>clearInterval(timerId)
+>
+>>alert('There is no time left to whack Facebook. Despite your score of: '
 + result + ' points, Facebook still exists.')
+>
+>}
 
 }
 
-}
-
-let countDownTimerId = setInterval(countDown, 1000)
+let countDownTimerId = setInterval(countDown, 1,000)</p2>
 
 I furthermore collected eight answers from my peers to the question
 *What would you whack?* The results were: a lack of confidence, eczema,
@@ -363,38 +368,38 @@ web developer at WeTransfer, I was told that I was *sooo very* creative.
 You can find out the answer to the question whether I got the job or not
 by reading the following ‘list’ of websites I dream of building, yet
 never have the time to:
+<p2>
+>&lt;a href="https://whack-what.vercel.app/"&gt;This was a technical
+assignment for WeTransfer, but I didn't get the job.&lt;/a&gt;&lt;br&gt;
 
-<a href=https://whack-what.vercel.app/>&lt;a href="https://whack-what.vercel.app/"&gt;This was a technical
-assignment for WeTransfer, but I didn't get the job.&lt;/a&gt;&lt;br&gt;</a>
-
-&lt;a href="/instagram-poetry/ig\_bore.html"&gt;IG
+>&lt;a href="/instagram-poetry/ig\_bore.html"&gt;IG
 bore&lt;/a&gt;&lt;br&gt;&lt;br&gt;
 
-&lt;a href="\#"&gt;Click here to stop scrolling&lt;/a&gt;&lt;br&gt;
+>&lt;a href="\#"&gt;Click here to stop scrolling&lt;/a&gt;&lt;br&gt;
 
-&lt;a href="\#"&gt;Blue Heart Agency&lt;/a&gt;&lt;br&gt;
+>&lt;a href="\#"&gt;Blue Heart Agency&lt;/a&gt;&lt;br&gt;
 
-&lt;a href="\#"&gt;I Just Wanna&lt;/a&gt;&lt;br&gt;
+>&lt;a href="\#"&gt;I Just Wanna&lt;/a&gt;&lt;br&gt;
 
-&lt;a href="\#"&gt;Button Poetry&lt;/a&gt;&lt;br&gt;
+>&lt;a href="\#"&gt;Button Poetry&lt;/a&gt;&lt;br&gt;
 
-&lt;a href="\#"&gt;The Writer is Present&lt;/a&gt;&lt;br&gt;
+>&lt;a href="\#"&gt;The Writer is Present&lt;/a&gt;&lt;br&gt;
 
-&lt;a href="\#"&gt;We only got 10 mins to save the
+>&lt;a href="\#"&gt;We only got 10 mins to save the
 content&lt;/a&gt;&lt;br&gt;
 
-&lt;a href="\#"&gt;Mute everything&lt;/a&gt;&lt;br&gt;
+>&lt;a href="\#"&gt;Mute everything&lt;/a&gt;&lt;br&gt;
 
-&lt;a href="\#"&gt;Forever load, but not like that&lt;/a&gt;&lt;br&gt;
+>&lt;a href="\#"&gt;Forever load, but not like that&lt;/a&gt;&lt;br&gt;
 
-&lt;a href="\#"&gt;Rotating structures, floating points, and
+>&lt;a href="\#"&gt;Rotating structures, floating points, and
 similar&lt;/a&gt;&lt;br&gt;
 
-&lt;a href="\#"&gt;All known blanks&lt;/a&gt;&lt;br&gt;
+>&lt;a href="\#"&gt;All known blanks&lt;/a&gt;&lt;br&gt;
 
-&lt;a href="\#"&gt;Working station of profile
+>&lt;a href="\#"&gt;Working station of profile
 production&lt;/a&gt;&lt;br&gt;
-
+</p2>
 It’s not a list in code. Were I to write semantic code, it’d be wrapped
 in a &lt;ul&gt;&lt;/ul&gt; tag, followed by a &lt;li&gt; tag around each
 &lt;a&gt; tag. Then I’d get rid of the line break tags (&lt;br&gt;). The

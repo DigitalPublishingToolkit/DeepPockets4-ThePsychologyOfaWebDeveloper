@@ -37,7 +37,7 @@ body{
 }
 
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3 {
     font-family: 'OpenSans-Semibold';
     text-transform: uppercase;
     font-weight: bold;
@@ -70,6 +70,8 @@ h3{
 }
 
 
+
+
 b,strong{
     font-family: 'OpenSans-Semibold';
 }
@@ -98,10 +100,23 @@ div#cover-image{
     text-align:center;
 }
 
-a.footnoteRef{
+p1{
     vertical-align: super;
     line-height: normal;
-    font-size: 0.5em;
+    font-size: 0.6em;
+}
+
+p2{
+    font-family: Consolas;
+    vertical-align: super;
+    line-height: 0.8em;
+    font-size: 0.8em;
+}
+
+[]{
+    vertical-align: super;
+    line-height: normal;
+    font-size: 0.6em;
 }
 
 img {
