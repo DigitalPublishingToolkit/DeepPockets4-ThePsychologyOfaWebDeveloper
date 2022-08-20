@@ -30,7 +30,7 @@ Author: Maisa Imamović
 <br/>Printer: Lulu 
 <br/>
 <br/>Published by the Institute of Network Cultures, Amsterdam, 2022
-<br/>ISBN 
+<br/>ISBN 9789492302892
 
 **Contact**
 <br/>Institute of Network Cultures
