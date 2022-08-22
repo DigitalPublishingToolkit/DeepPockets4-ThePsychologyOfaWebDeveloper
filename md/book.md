@@ -18,7 +18,7 @@ Author: Maisa Imamović
 <br/>Printer: Lulu 
 <br/>
 <br/>Published by the Institute of Network Cultures, Amsterdam, 2022
-<br/>ISBN 
+<br/>ISBN 9789492302892
 
 **Contact**
 <br/>Institute of Network Cultures
@@ -33,8 +33,8 @@ This publication may be ordered through various print-on-demand-services
 or freely downloaded from http://www.networkcultures.org/publications.
 
 ![](imgs/inclogo.png)
-
-The zeros and ones of machine code seem to offer themselves as perfect symbols of the orders of Western reality, the ancient logical codes which make the difference between on and off, right and left, light and dark, form and matter, mind and body, white and black, good and evil, right and wrong, life and death, something and nothing, this and that, here and there, inside and out, active and passive, true and false, yes and no, sanity and madness, health and sickness, up and down, sense and nonsense, west and east, north and south. And they made a lovely couple when it came to sex. Man and woman, male and female, masculine and feminine: one and zero looked just right, made for each other: 1, the definite, upright line; and 0, the diagram of nothing at all: penis and vagina, thing and hole. . . hand in glove. A perfect match. — Sadie Plant, *Zeros and Ones*
+<p id="passage-quote">
+The zeros and ones of machine code seem to offer themselves as perfect symbols of the orders of Western reality, the ancient logical codes which make the difference between on and off, right and left, light and dark, form and matter, mind and body, white and black, good and evil, right and wrong, life and death, something and nothing, this and that, here and there, inside and out, active and passive, true and false, yes and no, sanity and madness, health and sickness, up and down, sense and nonsense, west and east, north and south. And they made a lovely couple when it came to sex. Man and woman, male and female, masculine and feminine: one and zero looked just right, made for each other: 1, the definite, upright line; and 0, the diagram of nothing at all: penis and vagina, thing and hole. . . hand in glove. A perfect match. — Sadie Plant, *Zeros and Ones*</p>
 
 # Contents
 
@@ -221,7 +221,7 @@ for promoting dreams to me I didn’t know I dreamt of, and for
 materializing them. Giving me a reason to study the first, archetypical
 figure of a web developer, in order to understand my own.
 
-[^05spleak_1]: <p1>Lyrics from ‘Prokleta je Amerika’, by the famous Bosnian pop-folk singern Donna Ares:[*https://www.youtube.com/watch?v=qLs6Tqy9Nt0*](https://www.youtube.com/watch?v=qLs6Tqy9Nt0).</p1>
+[^05spleak_1]: Lyrics from ‘Prokleta je Amerika’, by the famous Bosnian pop-folk singern Donna Ares:[*https://www.youtube.com/watch?v=qLs6Tqy9Nt0*](https://www.youtube.com/watch?v=qLs6Tqy9Nt0).
 
 [^05spleak_2]: IM applications are often standalone applications, such as WhatsApp. They can also be embedded applications with multiple purposes. Instant messaging programs can differ based on the platform they are embedded in. For example, an instant messaging tool can be embedded into the following: social media.
 
@@ -1185,6 +1185,8 @@ That’s why Larry built BlockSmith: so you can make things work exactly
 the way they’re supposed to. Everything just *works* with BlockSmith—the
 modern way to build structures for the web.
 
+
+
 [^10patchworkculture_1]: ‘A patchwork culture of short-term memories and missing records,
     conflicting histories and discontinuous samples, strands of the
     narrative pulled out of time.’ — Sadie Plant, *Zeros and Ones*
@@ -1865,26 +1867,30 @@ make something happen (clicking) in order to extract bits. The question
 behind a what-if situation can be answered with at least three
 solutions. For example:
 
-What if the user doesn’t have friends?<br>
-1. Remind them.<br>
-2. Propose to connect their friends’ list from another platform.<br>
+What if the user doesn’t have friends?
+
+1. Remind them.
+2. Propose to connect their friends’ list from another platform.
 3. Suggest a friend.
 
-What if the user doesn’t go to an event?<br>
-1. Perhaps they could be interested in updates about said event?<br>
+What if the user doesn’t go to an event?
+
+1. Perhaps they could be interested in updates about said event?
 2. You don’t have to go but you can follow the event, which is part of a
-series, so maybe you can go next time.<br>
+series, so maybe you can go next time.
 3. Are you sure?
 
-What if the user doesn’t react to the picture of a cat?<br>
-1. Here is a cuter cat.<br>
-2. How about a reduced amount of cat content?<br>
+What if the user doesn’t react to the picture of a cat?
+
+1. Here is a cuter cat.
+2. How about a reduced amount of cat content?
 3. But all your friends like it!
 
-What if the user doesn’t move the cursor?<br>
+What if the user doesn’t move the cursor?
+
 1. Wait for seven seconds, then show a video of a cursor on steroids. The
-longer the hovering, the bigger the cursor will grow.<br>
-2. Wait for seven seconds, then make the menu bounce.<br>
+longer the hovering, the bigger the cursor will grow.
+2. Wait for seven seconds, then make the menu bounce.
 3. Just let the ad appear with a big X button.
 
 By answering these questions, the web developer’s forever-aim is to make
@@ -2165,10 +2171,12 @@ these impulses are rushed, postponed, or even completely neglected. This
 is the core behavior that builds up the stoic man: the logic of the
 world robbing him of his boner.[^14scottgivesmeanassignment_6]
 
+
+
 ————————————————————————————————————————
 
-*‘The object of information, never a subject in communication’ — Sadie
-Plant, Zeros and Ones*
+<p id="passage-quote">*‘The object of information, never a subject in communication’ — Sadie
+Plant, Zeros and Ones*</p>
 
 ————————————————————————————————————————
 
@@ -2501,62 +2509,61 @@ with my client.
 Here comes an example of my liberation. The following code was written
 for the client’s portfolio website and in agreement with the client:
 
-<p2>&lt;details&gt;</p2>
+####&lt;details&gt;
 
-<p2>&emsp; &lt;summary style="margin-left: 50%"&gt;editor&lt;/summary&gt;</p2>
+####&emsp; &lt;summary style="margin-left: 50%"&gt;editor&lt;/summary&gt;
 
-<p2>&emsp; &lt;?php \$loop = new WP\_Query( array( 'post\_type' =&gt; 'editor',
-&emsp; 'posts\_per\_page' =&gt; 10 ) );</p2>
-
-
-<p2>&emsp; if ( \$loop-&gt;have\_posts() ):</p2>
-
-<p2>&emsp;&emsp; while ( \$loop-&gt;have\_posts() ) : \$loop-&gt;the\_post();</p2>
-
-<p2>&emsp;&emsp; ?&gt;</p2>
-
-<p2>&emsp;&emsp; &lt;details class="secondary-details"&gt;</p2>
-
-<p2>&emsp;&emsp; &lt;summary class="project" id="editor-project"</p2>
-
-<p2>&emsp;&emsp; onclick="editorProjectTop()"&gt;&lt;?php the\_title('⊃&nbsp;');</p2>
-
-<p2>&emsp; ?&gt;&lt;/summary&gt;</p2>
-
-<p2>&emsp;&emsp;&emsp; &lt;div class="entry-content"&gt;</p2>
-
-<p2>&emsp;&emsp;&emsp;&emsp; &lt;?php the\_content(); ?&gt;</p2>
-
-<p2>&emsp;&emsp;&emsp; &lt;/div&gt;</p2>
-
-<p2>&emsp;&emsp;&emsp; &lt;div class="mode-buttons"&gt;</p2>
-
-<p2>&emsp;&emsp;&emsp;&emsp; &lt;button class="feel-btn" onclick="editorProjectTop()"&gt;see, hear,
-&emsp; sense&lt;/button&gt;</p2>
-
-<p2>&emsp;&emsp;&emsp;&emsp; &lt;button class="read-btn"</p2>
-
-</p2>&emsp; onclick="editorProjectTop()"&gt;read&lt;/button&gt;</p2>
-
-<p2>&emsp;&emsp;&emsp; &lt;/div&gt;</p2>
-
-<p2>&emsp;&emsp; &lt;/details&gt;</p2>
-
-<p2>&emsp; &lt;?php endwhile;</p2>
+####&emsp; &lt;?php \$loop = new WP\_Query( array( 'post\_type' =&gt; 'editor',
+&emsp; 'posts\_per\_page' =&gt; 10 ) );
 
 
-<p2>&emsp; else: ?&gt;</p2>
+####&emsp; if ( \$loop-&gt;have\_posts() ):
 
-<p2>&emsp;&emsp; &lt;p&gt;&lt;?php echo '&lt;div&emsp; class=“void"&gt;&lt;/div&gt;’;?&gt;&lt;/p&gt;</p2>
+####&emsp;&emsp; while ( \$loop-&gt;have\_posts() ) : \$loop-&gt;the\_post();
 
-<p2>&emsp; &lt;?php endif;</p2>
+####&emsp;&emsp; ?&gt;
+
+####&emsp;&emsp; &lt;details class="secondary-details"&gt;
+
+####&emsp;&emsp; &lt;summary class="project" id="editor-project"
+
+####&emsp;&emsp; onclick="editorProjectTop()"&gt;&lt;?php the\_title('⊃&nbsp;');
+
+####&emsp; ?&gt;&lt;/summary&gt;
+
+####&emsp;&emsp;&emsp; &lt;div class="entry-content"&gt;
+
+####&emsp;&emsp;&emsp;&emsp; &lt;?php the\_content(); ?&gt;
+
+####&emsp;&emsp;&emsp; &lt;/div&gt;
+
+####&emsp;&emsp;&emsp; &lt;div class="mode-buttons"&gt;
+
+####&emsp;&emsp;&emsp;&emsp; &lt;button class="feel-btn" onclick="editorProjectTop()"&gt;see, hear,&emsp; sense&lt;/button&gt;
+
+####&emsp;&emsp;&emsp;&emsp; &lt;button class="read-btn"
+
+####&emsp; onclick="editorProjectTop()"&gt;read&lt;/button&gt;
+
+####&emsp;&emsp;&emsp; &lt;/div&gt;
+
+####&emsp;&emsp; &lt;/details&gt;
+
+####&emsp; &lt;?php endwhile;
 
 
-<p2>&emsp; wp\_reset\_query();</p2>
+####&emsp; else: ?&gt;
 
-<p2>&emsp; ?&gt;</p2>
+####&emsp;&emsp; &lt;p&gt;&lt;?php echo '&lt;div&emsp; class=“void"&gt;&lt;/div&gt;’;?&gt;&lt;/p&gt;
 
-<p2>&lt;/details&gt;</p2>
+####&emsp; &lt;?php endif;
+
+
+####&emsp; wp\_reset\_query();
+
+####&emsp; ?&gt;
+
+####&lt;/details&gt;
 
 The code indicates that there is a button called ‘editor’ on the
 website, which is one of the professional roles that define the client’s
@@ -2599,76 +2606,74 @@ the rest of your life, what would it be?*
 
 One of the answers was Facebook:
 
-<p2>&lt;body&gt;
+####&lt;body&gt;
 
->&lt;header&gt;
+####&emsp;&lt;header&gt;
 
->>&lt;div class="display-flex"&gt;
+####&emsp;&emsp;&lt;div class="display-flex"&gt;
 
->>>&lt;p&gt;Facebook killed:&lt;/p&gt;
+####&emsp;&emsp;&emsp;&lt;p&gt;Facebook killed:&lt;/p&gt;
 
->>>&lt;p id="score"&gt;0&lt;/p&gt;&lt;p&gt; times.&lt;/p&gt;
+####&emsp;&emsp;&emsp;&lt;p id="score"&gt;0&lt;/p&gt;&lt;p&gt; times.&lt;/p&gt;
 
->>&lt;/div&gt;
+####&emsp;&emsp;&lt;/div&gt;
 
->>&lt;div class="display-flex"&gt;
+####&emsp;&emsp;&lt;div class="display-flex"&gt;
 
->>>&lt;p&gt;Time Left:&lt;/p&gt;
+####&emsp;&emsp;&emsp;&lt;p&gt;Time Left:&lt;/p&gt;
 
->>>&lt;p id="time-left"&gt;666&lt;/p&gt;
+####&emsp;&emsp;&emsp;&lt;p id="time-left"&gt;666&lt;/p&gt;
 
->>&lt;/div&gt;
+####&emsp;&emsp;&lt;/div&gt;
 
->&lt;/header&gt;
+####&emsp;&lt;/header&gt;
 
->&lt;div class="grid"&gt;
+####&emsp;&lt;div class="grid"&gt;
 
->>&lt;div id="1" class="square"&gt;&lt;/div&gt;
+####&emsp;&emsp;&lt;div id="1" class="square"&gt;&lt;/div&gt;
 
->>&lt;div id="2" class="square"&gt;&lt;/div&gt;
+####&emsp;&emsp;&lt;div id="2" class="square"&gt;&lt;/div&gt;
 
->>&lt;div id="3" class="square facebook"&gt;&lt;/div&gt;
+####&emsp;&emsp;&lt;div id="3" class="square facebook"&gt;&lt;/div&gt;
 
->>&lt;div id="4" class="square"&gt;&lt;/div&gt;
+####&emsp;&emsp;&lt;div id="4" class="square"&gt;&lt;/div&gt;
 
->>&lt;div id="5" class="square"&gt;&lt;/div&gt;
+####&emsp;&emsp;&lt;div id="5" class="square"&gt;&lt;/div&gt;
 
->>&lt;div id="6" class="square"&gt;&lt;/div&gt;
+####&emsp;&emsp;&lt;div id="6" class="square"&gt;&lt;/div&gt;
 
->>&lt;div id="7" class="square"&gt;&lt;/div&gt;
+####&emsp;&emsp;&lt;div id="7" class="square"&gt;&lt;/div&gt;
 
->>&lt;div id="8" class="square"&gt;&lt;/div&gt;
+####&emsp;&emsp;&lt;div id="8" class="square"&gt;&lt;/div&gt;
 
->>&lt;div id="9" class="square"&gt;&lt;/div&gt;
+####&emsp;&emsp;&lt;div id="9" class="square"&gt;&lt;/div&gt;
 
->>&lt;div id="10" class="square"&gt;&lt;/div&gt;
+####&emsp;&emsp;&lt;div id="10" class="square"&gt;&lt;/div&gt;
 
->>&lt;div id="11" class="square"&gt;&lt;/div&gt;
+####&emsp;&emsp;&lt;div id="11" class="square"&gt;&lt;/div&gt;
 
->>&lt;div id="12" class="square"&gt;&lt;/div&gt;
+####&emsp;&emsp;&lt;div id="12" class="square"&gt;&lt;/div&gt;
 
->>&lt;div id="13" class="square"&gt;&lt;/div&gt;
+####&emsp;&emsp;&lt;div id="13" class="square"&gt;&lt;/div&gt;
 
->>&lt;div id="14" class="square"&gt;&lt;/div&gt;
+####&emsp;&emsp;&lt;div id="14" class="square"&gt;&lt;/div&gt;
 
->>&lt;div id="15" class="square"&gt;&lt;/div&gt;
+####&emsp;&emsp;&lt;div id="15" class="square"&gt;&lt;/div&gt;
 
->&lt;/div&gt;<br>
+####&emsp;&lt;/div&gt;
 
 
->&lt;footer&gt;
+####&emsp;&lt;footer&gt;
 
->>&lt;p&gt;
+####&emsp;&emsp;&lt;p&gt;
 
->>>\[person\] undoubtedly wants to whack Facebook all the time, and for a
-long time. &lt;br&gt;
+####&emsp;&emsp;&emsp;\[person\] undoubtedly wants to whack Facebook all the time, and for a long time. &lt;br&gt;
 
->>>Is your name not \[person\] &lt;a href="/index.html"&gt;My name is not
-\[person\].&lt;/a&gt;&lt;/p&gt;
+####&emsp;&emsp;&emsp;Is your name not \[person\] &lt;a href="/index.html"&gt;My name is not \[person\].&lt;/a&gt;&lt;/p&gt;
 
->&lt;/footer&gt;
+####&emsp;&lt;/footer&gt;
 
-&lt;/body&gt;<p2>
+####&lt;/body&gt;
 
 This is the body of a web page that was built to show the score (how
 many times Facebook was whacked); above it one can see the countdown
@@ -2687,26 +2692,25 @@ squares, long enough to shoot it. It was rather impossible to miss.
 Unfortunately, the message at the end of the countdown reminds the user
 that, despite their astonishing scores, Facebook still exists.
 
-<p2>function countDown() {
+####function countDown() {
 
->currentTime--
->
->timeLeft.textContent = currentTime
->
->if (currentTime == 0) {
->
->>clearInterval(countDownTimerId)
->
->>clearInterval(timerId)
->
->>alert('There is no time left to whack Facebook. Despite your score of: '
-+ result + ' points, Facebook still exists.')
->
->}
+####&emsp;currentTime--
 
-}
+####&emsp;timeLeft.textContent = currentTime
 
-let countDownTimerId = setInterval(countDown, 1,000)</p2>
+####&emsp;if (currentTime == 0) {
+
+####&emsp;&emsp;clearInterval(countDownTimerId)
+
+####&emsp;&emsp;clearInterval(timerId)
+
+####&emsp;&emsp;alert('There is no time left to whack Facebook. Despite your score of: '+ result + ' points, Facebook still exists.')
+
+####&emsp;}
+
+####}
+
+####let countDownTimerId = setInterval(countDown, 1,000)
 
 I furthermore collected eight answers from my peers to the question
 *What would you whack?* The results were: a lack of confidence, eczema,
@@ -2728,38 +2732,33 @@ web developer at WeTransfer, I was told that I was *sooo very* creative.
 You can find out the answer to the question whether I got the job or not
 by reading the following ‘list’ of websites I dream of building, yet
 never have the time to:
-<p2>
->&lt;a href="https://whack-what.vercel.app/"&gt;This was a technical
-assignment for WeTransfer, but I didn't get the job.&lt;/a&gt;&lt;br&gt;
 
->&lt;a href="/instagram-poetry/ig\_bore.html"&gt;IG
-bore&lt;/a&gt;&lt;br&gt;&lt;br&gt;
+####&emsp;&lt;a href="https://whack-what.vercel.app/"&gt;This was a technical assignment for WeTransfer, but I didn't get the job.&lt;/a&gt;&lt;br&gt;
 
->&lt;a href="\#"&gt;Click here to stop scrolling&lt;/a&gt;&lt;br&gt;
+####&emsp;&lt;a href="/instagram-poetry/ig\_bore.html"&gt;IG bore&lt;/a&gt;&lt;br&gt;&lt;br&gt;
 
->&lt;a href="\#"&gt;Blue Heart Agency&lt;/a&gt;&lt;br&gt;
+####&emsp;&lt;a href="\#"&gt;Click here to stop scrolling&lt;/a&gt;&lt;br&gt;
 
->&lt;a href="\#"&gt;I Just Wanna&lt;/a&gt;&lt;br&gt;
+####&emsp;&lt;a href="\#"&gt;Blue Heart Agency&lt;/a&gt;&lt;br&gt;
 
->&lt;a href="\#"&gt;Button Poetry&lt;/a&gt;&lt;br&gt;
+####&emsp;&lt;a href="\#"&gt;I Just Wanna&lt;/a&gt;&lt;br&gt;
 
->&lt;a href="\#"&gt;The Writer is Present&lt;/a&gt;&lt;br&gt;
+####&emsp;&lt;a href="\#"&gt;Button Poetry&lt;/a&gt;&lt;br&gt;
 
->&lt;a href="\#"&gt;We only got 10 mins to save the
-content&lt;/a&gt;&lt;br&gt;
+####&emsp;&lt;a href="\#"&gt;The Writer is Present&lt;/a&gt;&lt;br&gt;
 
->&lt;a href="\#"&gt;Mute everything&lt;/a&gt;&lt;br&gt;
+####&emsp;&lt;a href="\#"&gt;We only got 10 mins to save the content&lt;/a&gt;&lt;br&gt;
 
->&lt;a href="\#"&gt;Forever load, but not like that&lt;/a&gt;&lt;br&gt;
+####&emsp;&lt;a href="\#"&gt;Mute everything&lt;/a&gt;&lt;br&gt;
 
->&lt;a href="\#"&gt;Rotating structures, floating points, and
-similar&lt;/a&gt;&lt;br&gt;
+####&emsp;&lt;a href="\#"&gt;Forever load, but not like that&lt;/a&gt;&lt;br&gt;
 
->&lt;a href="\#"&gt;All known blanks&lt;/a&gt;&lt;br&gt;
+####&emsp;&lt;a href="\#"&gt;Rotating structures, floating points, and similar&lt;/a&gt;&lt;br&gt;
 
->&lt;a href="\#"&gt;Working station of profile
-production&lt;/a&gt;&lt;br&gt;
-</p2>
+####&emsp;&lt;a href="\#"&gt;All known blanks&lt;/a&gt;&lt;br&gt;
+
+####&emsp;&lt;a href="\#"&gt;Working station of profile production&lt;/a&gt;&lt;br&gt;
+
 It’s not a list in code. Were I to write semantic code, it’d be wrapped
 in a &lt;ul&gt;&lt;/ul&gt; tag, followed by a &lt;li&gt; tag around each
 &lt;a&gt; tag. Then I’d get rid of the line break tags (&lt;br&gt;). The
@@ -2988,9 +2987,11 @@ writing from: my social status, the gain and/or lack of my freelance
 gigs, my female ambiguity, my questionable convincing skills, plus the
 fact that sometimes, when the world around me gets too loud, starving is
 still my default defense mechanism.
-<br><br><br><br><br><br>
+
+<br /><br /><br /><br /><br /><br /><br />
 <center>\*fadeout\*</center>
-<br><br><br><br><br><br>
+<br /><br /><br /><br />
+
 [^17femalefreelancer_1]: ‘When an uncontainable artist’s influence won’t go away, art
     history compromises by constructing hagiographies. At least that way
     the vision is contained. But you have to keep reminding yourself of

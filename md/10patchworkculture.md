@@ -157,6 +157,8 @@ That’s why Larry built BlockSmith: so you can make things work exactly
 the way they’re supposed to. Everything just *works* with BlockSmith—the
 modern way to build structures for the web.
 
+
+
 [^10patchworkculture_1]: ‘A patchwork culture of short-term memories and missing records,
     conflicting histories and discontinuous samples, strands of the
     narrative pulled out of time.’ — Sadie Plant, *Zeros and Ones*

@@ -234,9 +234,11 @@ writing from: my social status, the gain and/or lack of my freelance
 gigs, my female ambiguity, my questionable convincing skills, plus the
 fact that sometimes, when the world around me gets too loud, starving is
 still my default defense mechanism.
-<br><br><br><br><br><br>
+
+<br /><br /><br /><br /><br /><br /><br />
 <center>\*fadeout\*</center>
-<br><br><br><br><br><br>
+<br /><br /><br /><br />
+
 [^17femalefreelancer_1]: ‘When an uncontainable artist’s influence won’t go away, art
     history compromises by constructing hagiographies. At least that way
     the vision is contained. But you have to keep reminding yourself of

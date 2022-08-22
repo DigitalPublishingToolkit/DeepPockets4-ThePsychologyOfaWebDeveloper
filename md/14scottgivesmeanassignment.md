@@ -56,26 +56,30 @@ make something happen (clicking) in order to extract bits. The question
 behind a what-if situation can be answered with at least three
 solutions. For example:
 
-What if the user doesn’t have friends?<br>
-1. Remind them.<br>
-2. Propose to connect their friends’ list from another platform.<br>
+What if the user doesn’t have friends?
+
+1. Remind them.
+2. Propose to connect their friends’ list from another platform.
 3. Suggest a friend.
 
-What if the user doesn’t go to an event?<br>
-1. Perhaps they could be interested in updates about said event?<br>
+What if the user doesn’t go to an event?
+
+1. Perhaps they could be interested in updates about said event?
 2. You don’t have to go but you can follow the event, which is part of a
-series, so maybe you can go next time.<br>
+series, so maybe you can go next time.
 3. Are you sure?
 
-What if the user doesn’t react to the picture of a cat?<br>
-1. Here is a cuter cat.<br>
-2. How about a reduced amount of cat content?<br>
+What if the user doesn’t react to the picture of a cat?
+
+1. Here is a cuter cat.
+2. How about a reduced amount of cat content?
 3. But all your friends like it!
 
-What if the user doesn’t move the cursor?<br>
+What if the user doesn’t move the cursor?
+
 1. Wait for seven seconds, then show a video of a cursor on steroids. The
-longer the hovering, the bigger the cursor will grow.<br>
-2. Wait for seven seconds, then make the menu bounce.<br>
+longer the hovering, the bigger the cursor will grow.
+2. Wait for seven seconds, then make the menu bounce.
 3. Just let the ad appear with a big X button.
 
 By answering these questions, the web developer’s forever-aim is to make
@@ -356,10 +360,12 @@ these impulses are rushed, postponed, or even completely neglected. This
 is the core behavior that builds up the stoic man: the logic of the
 world robbing him of his boner.[^14scottgivesmeanassignment_6]
 
+
+
 ————————————————————————————————————————
 
-*‘The object of information, never a subject in communication’ — Sadie
-Plant, Zeros and Ones*
+<p id="passage-quote">*‘The object of information, never a subject in communication’ — Sadie
+Plant, Zeros and Ones*</p>
 
 ————————————————————————————————————————
 
