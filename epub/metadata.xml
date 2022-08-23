@@ -1,6 +1,6 @@
 <dc:identifier id="epub-id-1">urn:isbn:978-94-92302-41-0</dc:identifier>
 <meta refines="#epub-id-1" property="identifier-type" scheme="onix:codelist5">03</meta>
-<dc:title id="epub-title-1">The Psychology of the Web Developer, Reality of a Female Freelancer</dc:title>
+<dc:title id="epub-title-1">The Psychology of the Web Developer: Reality of a Female Freelancer</dc:title>
 <meta refines="#epub-title-1" property="title-type">main</meta>
 <dc:publisher>Institute of Network Cultures</dc:publisher>
 <dc:date id="epub-date">2022-08</dc:date>
@@ -11,19 +11,9 @@
 <meta refines="#epub-contributor-5" property="role" scheme="marc:relators">dsr</meta>
 <dc:rights>Creative Commons Attribution, NonCommercial, ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)</dc:rights>
 <dc:subject>Independent Culture</dc:subject>
-<dc:description>Underneath the user interface of any website—be it simple or complex—lurks the web developer’s
-struggle with money, prestige, and power. An ever-lasting race to the top, never not working. Yet
-what are these unseen costs of being a traditional web developer, and who decides the rules of the
-game?
-In this book on the psychology of an emerging yet often overlooked profession, Maisa Imamović
-explores the technological complexities underneath ordinary websites by asking questions such as:
-Who is a web developer? What does their assistant look like? Why does everybody want a &#39;simple&#39;
-website? What on earth is WordPress cringe? And what does it mean to be a female freelance
-web developer in a world full of tech bros?
-Strolling through this landscape of questions with irony and self-reflection by her side, Imamović
-takes the reader on an insightful, playful journey. Combining recollections of the author’s very first
-digital friend with a characterization of a bossy Senior Web Developer and his loyal Assistant as
-well as funny, raw testimonies of her own (post-pandemic) development within the field, the book
-can be read as a quest for liberation of the constraints of being both a web developer and a user.
-Maisa Imamović is an Amsterdam-based writer, web developer, designer, and artist. The
-Psychology of the Web Developer: Reality of a Female Freelancer is her first book.</dc:description>
+<dc:description>Underneath the user interface of any website—be it simple or complex—lurks the web developer’s struggle with money, prestige, and power. An ever-lasting race to the top, never not working. Yet what are these unseen costs of being a traditional web developer, and who decides the rules of the game?
+
+In this book on the psychology of an emerging yet often overlooked profession, Maisa Imamović explores the technological complexities underneath ordinary websites by asking questions such as: Who is a web developer? What does their assistant look like? Why does everybody want a <s>simple</s> website? What on earth is WordPress cringe? And what does it mean to be a female freelance web developer in a world full of tech bros?
+
+Strolling through this landscape of questions with irony and self-reflection by her side, Imamović takes the reader on an insightful, playful journey. Combining recollections of the author’s very first digital friend with a characterization of a bossy Senior Web Developer and his loyal Assistant as well as funny, raw testimonies of her own (post-pandemic) development within the field, the book can be read as a quest for liberation of the constraints of being both a web developer and a user.
+Maisa Imamović is an Amsterdam-based writer, web developer, designer, and artist.</dc:description>

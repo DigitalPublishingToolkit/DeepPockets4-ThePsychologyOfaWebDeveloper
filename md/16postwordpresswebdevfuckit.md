@@ -143,57 +143,56 @@ for the client’s portfolio website and in agreement with the client:
 
 ####&lt;details&gt;
 
-####&emsp; &lt;summary style="margin-left: 50%"&gt;editor&lt;/summary&gt;
+####&emsp;&emsp; &lt;summary style="margin-left: 50%"&gt;editor&lt;/summary&gt;
 
-####&emsp; &lt;?php \$loop = new WP\_Query( array( 'post\_type' =&gt; 'editor',
-&emsp; 'posts\_per\_page' =&gt; 10 ) );
+####&emsp;&emsp; &lt;?php \$loop = new WP\_Query( array( 'post\_type' =&gt; 'editor', &emsp; 'posts\_per\_page' =&gt; 10 ) );
 
 
-####&emsp; if ( \$loop-&gt;have\_posts() ):
+####&emsp;&emsp; if ( \$loop-&gt;have\_posts() ):
 
-####&emsp;&emsp; while ( \$loop-&gt;have\_posts() ) : \$loop-&gt;the\_post();
+####&emsp;&emsp;&emsp;&emsp; while ( \$loop-&gt;have\_posts() ) : \$loop-&gt;the\_post();
+
+####&emsp;&emsp;&emsp;&emsp; ?&gt;
+
+####&emsp;&emsp;&emsp;&emsp; &lt;details class="secondary-details"&gt;
+
+####&emsp;&emsp;&emsp;&emsp; &lt;summary class="project" id="editor-project"
+
+####&emsp;&emsp;&emsp;&emsp; onclick="editorProjectTop()"&gt;&lt;?php the\_title('⊃&nbsp;');
+
+####&emsp;&emsp; ?&gt;&lt;/summary&gt;
+
+####&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &lt;div class="entry-content"&gt;
+
+####&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &lt;?php the\_content(); ?&gt;
+
+####&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &lt;/div&gt;
+
+####&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &lt;div class="mode-buttons"&gt;
+
+####&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &lt;button class="feel-btn" onclick="editorProjectTop()"&gt;see, hear,&emsp; sense&lt;/button&gt;
+
+####&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &lt;button class="read-btn"
+
+####&emsp;&emsp; onclick="editorProjectTop()"&gt;read&lt;/button&gt;
+
+####&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &lt;/div&gt;
+
+####&emsp;&emsp;&emsp;&emsp; &lt;/details&gt;
+
+####&emsp;&emsp; &lt;?php endwhile;
+
+
+####&emsp;&emsp; else: ?&gt;
+
+####&emsp;&emsp;&emsp;&emsp; &lt;p&gt;&lt;?php echo '&lt;div&emsp; class=“void"&gt;&lt;/div&gt;’;?&gt;&lt;/p&gt;
+
+####&emsp;&emsp; &lt;?php endif;
+
+
+####&emsp;&emsp; wp\_reset\_query();
 
 ####&emsp;&emsp; ?&gt;
-
-####&emsp;&emsp; &lt;details class="secondary-details"&gt;
-
-####&emsp;&emsp; &lt;summary class="project" id="editor-project"
-
-####&emsp;&emsp; onclick="editorProjectTop()"&gt;&lt;?php the\_title('⊃&nbsp;');
-
-####&emsp; ?&gt;&lt;/summary&gt;
-
-####&emsp;&emsp;&emsp; &lt;div class="entry-content"&gt;
-
-####&emsp;&emsp;&emsp;&emsp; &lt;?php the\_content(); ?&gt;
-
-####&emsp;&emsp;&emsp; &lt;/div&gt;
-
-####&emsp;&emsp;&emsp; &lt;div class="mode-buttons"&gt;
-
-####&emsp;&emsp;&emsp;&emsp; &lt;button class="feel-btn" onclick="editorProjectTop()"&gt;see, hear,&emsp; sense&lt;/button&gt;
-
-####&emsp;&emsp;&emsp;&emsp; &lt;button class="read-btn"
-
-####&emsp; onclick="editorProjectTop()"&gt;read&lt;/button&gt;
-
-####&emsp;&emsp;&emsp; &lt;/div&gt;
-
-####&emsp;&emsp; &lt;/details&gt;
-
-####&emsp; &lt;?php endwhile;
-
-
-####&emsp; else: ?&gt;
-
-####&emsp;&emsp; &lt;p&gt;&lt;?php echo '&lt;div&emsp; class=“void"&gt;&lt;/div&gt;’;?&gt;&lt;/p&gt;
-
-####&emsp; &lt;?php endif;
-
-
-####&emsp; wp\_reset\_query();
-
-####&emsp; ?&gt;
 
 ####&lt;/details&gt;
 
@@ -240,70 +239,70 @@ One of the answers was Facebook:
 
 ####&lt;body&gt;
 
-####&emsp;&lt;header&gt;
+####&emsp;&emsp;&lt;header&gt;
 
-####&emsp;&emsp;&lt;div class="display-flex"&gt;
+####&emsp;&emsp;&emsp;&emsp;&lt;div class="display-flex"&gt;
 
-####&emsp;&emsp;&emsp;&lt;p&gt;Facebook killed:&lt;/p&gt;
+####&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&lt;p&gt;Facebook killed:&lt;/p&gt;
 
-####&emsp;&emsp;&emsp;&lt;p id="score"&gt;0&lt;/p&gt;&lt;p&gt; times.&lt;/p&gt;
+####&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&lt;p id="score"&gt;0&lt;/p&gt;&lt;p&gt; times.&lt;/p&gt;
+
+####&emsp;&emsp;&emsp;&emsp;&lt;/div&gt;
+
+####&emsp;&emsp;&emsp;&emsp;&lt;div class="display-flex"&gt;
+
+####&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&lt;p&gt;Time Left:&lt;/p&gt;
+
+####&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&lt;p id="time-left"&gt;666&lt;/p&gt;
+
+####&emsp;&emsp;&emsp;&emsp;&lt;/div&gt;
+
+####&emsp;&emsp;&lt;/header&gt;
+
+####&emsp;&emsp;&emsp;&emsp;&lt;div class="grid"&gt;
+
+####&emsp;&emsp;&emsp;&emsp;&lt;div id="1" class="square"&gt;&lt;/div&gt;
+
+####&emsp;&emsp;&emsp;&emsp;&lt;div id="2" class="square"&gt;&lt;/div&gt;
+
+####&emsp;&emsp;&emsp;&emsp;&lt;div id="3" class="square facebook"&gt;&lt;/div&gt;
+
+####&emsp;&emsp;&emsp;&emsp;&lt;div id="4" class="square"&gt;&lt;/div&gt;
+
+####&emsp;&emsp;&emsp;&emsp;&lt;div id="5" class="square"&gt;&lt;/div&gt;
+
+####&emsp;&emsp;&emsp;&emsp;&lt;div id="6" class="square"&gt;&lt;/div&gt;
+
+####&emsp;&emsp;&emsp;&emsp;&lt;div id="7" class="square"&gt;&lt;/div&gt;
+
+####&emsp;&emsp;&emsp;&emsp;&lt;div id="8" class="square"&gt;&lt;/div&gt;
+
+####&emsp;&emsp;&emsp;&emsp;&lt;div id="9" class="square"&gt;&lt;/div&gt;
+
+####&emsp;&emsp;&emsp;&emsp;&lt;div id="10" class="square"&gt;&lt;/div&gt;
+
+####&emsp;&emsp;&emsp;&emsp;&lt;div id="11" class="square"&gt;&lt;/div&gt;
+
+####&emsp;&emsp;&emsp;&emsp;&lt;div id="12" class="square"&gt;&lt;/div&gt;
+
+####&emsp;&emsp;&emsp;&emsp;&lt;div id="13" class="square"&gt;&lt;/div&gt;
+
+####&emsp;&emsp;&emsp;&emsp;&lt;div id="14" class="square"&gt;&lt;/div&gt;
+
+####&emsp;&emsp;&emsp;&emsp;&lt;div id="15" class="square"&gt;&lt;/div&gt;
 
 ####&emsp;&emsp;&lt;/div&gt;
 
-####&emsp;&emsp;&lt;div class="display-flex"&gt;
 
-####&emsp;&emsp;&emsp;&lt;p&gt;Time Left:&lt;/p&gt;
+####&emsp;&emsp;&lt;footer&gt;
 
-####&emsp;&emsp;&emsp;&lt;p id="time-left"&gt;666&lt;/p&gt;
+####&emsp;&emsp;&emsp;&emsp;&lt;p&gt;
 
-####&emsp;&emsp;&lt;/div&gt;
+####&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;\[person\] undoubtedly wants to whack Facebook all the time, and for a long time. &lt;br&gt;
 
-####&emsp;&lt;/header&gt;
+####&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Is your name not \[person\] &lt;a href="/index.html"&gt;My name is not \[person\].&lt;/a&gt;&lt;/p&gt;
 
-####&emsp;&lt;div class="grid"&gt;
-
-####&emsp;&emsp;&lt;div id="1" class="square"&gt;&lt;/div&gt;
-
-####&emsp;&emsp;&lt;div id="2" class="square"&gt;&lt;/div&gt;
-
-####&emsp;&emsp;&lt;div id="3" class="square facebook"&gt;&lt;/div&gt;
-
-####&emsp;&emsp;&lt;div id="4" class="square"&gt;&lt;/div&gt;
-
-####&emsp;&emsp;&lt;div id="5" class="square"&gt;&lt;/div&gt;
-
-####&emsp;&emsp;&lt;div id="6" class="square"&gt;&lt;/div&gt;
-
-####&emsp;&emsp;&lt;div id="7" class="square"&gt;&lt;/div&gt;
-
-####&emsp;&emsp;&lt;div id="8" class="square"&gt;&lt;/div&gt;
-
-####&emsp;&emsp;&lt;div id="9" class="square"&gt;&lt;/div&gt;
-
-####&emsp;&emsp;&lt;div id="10" class="square"&gt;&lt;/div&gt;
-
-####&emsp;&emsp;&lt;div id="11" class="square"&gt;&lt;/div&gt;
-
-####&emsp;&emsp;&lt;div id="12" class="square"&gt;&lt;/div&gt;
-
-####&emsp;&emsp;&lt;div id="13" class="square"&gt;&lt;/div&gt;
-
-####&emsp;&emsp;&lt;div id="14" class="square"&gt;&lt;/div&gt;
-
-####&emsp;&emsp;&lt;div id="15" class="square"&gt;&lt;/div&gt;
-
-####&emsp;&lt;/div&gt;
-
-
-####&emsp;&lt;footer&gt;
-
-####&emsp;&emsp;&lt;p&gt;
-
-####&emsp;&emsp;&emsp;\[person\] undoubtedly wants to whack Facebook all the time, and for a long time. &lt;br&gt;
-
-####&emsp;&emsp;&emsp;Is your name not \[person\] &lt;a href="/index.html"&gt;My name is not \[person\].&lt;/a&gt;&lt;/p&gt;
-
-####&emsp;&lt;/footer&gt;
+####&emsp;&emsp;&lt;/footer&gt;
 
 ####&lt;/body&gt;
 
@@ -326,19 +325,19 @@ that, despite their astonishing scores, Facebook still exists.
 
 ####function countDown() {
 
-####&emsp;currentTime--
+####&emsp;&emsp;currentTime--
 
-####&emsp;timeLeft.textContent = currentTime
+####&emsp;&emsp;timeLeft.textContent = currentTime
 
-####&emsp;if (currentTime == 0) {
+####&emsp;&emsp;if (currentTime == 0) {
 
-####&emsp;&emsp;clearInterval(countDownTimerId)
+####&emsp;&emsp;&emsp;&emsp;clearInterval(countDownTimerId)
 
-####&emsp;&emsp;clearInterval(timerId)
+####&emsp;&emsp;&emsp;&emsp;clearInterval(timerId)
 
-####&emsp;&emsp;alert('There is no time left to whack Facebook. Despite your score of: '+ result + ' points, Facebook still exists.')
+####&emsp;&emsp;&emsp;&emsp;alert('There is no time left to whack Facebook. Despite your score of: '+ result + ' points, Facebook still exists.')
 
-####&emsp;}
+####&emsp;&emsp;}
 
 ####}
 
@@ -365,31 +364,31 @@ You can find out the answer to the question whether I got the job or not
 by reading the following ‘list’ of websites I dream of building, yet
 never have the time to:
 
-####&emsp;&lt;a href="https://whack-what.vercel.app/"&gt;This was a technical assignment for WeTransfer, but I didn't get the job.&lt;/a&gt;&lt;br&gt;
+####&emsp;&emsp;&lt;a href="https://whack-what.vercel.app/"&gt;This was a technical assignment for WeTransfer, but I didn't get the job.&lt;/a&gt;&lt;br&gt;
 
-####&emsp;&lt;a href="/instagram-poetry/ig\_bore.html"&gt;IG bore&lt;/a&gt;&lt;br&gt;&lt;br&gt;
+####&emsp;&emsp;&lt;a href="/instagram-poetry/ig\_bore.html"&gt;IG bore&lt;/a&gt;&lt;br&gt;&lt;br&gt;
 
-####&emsp;&lt;a href="\#"&gt;Click here to stop scrolling&lt;/a&gt;&lt;br&gt;
+####&emsp;&emsp;&lt;a href="\#"&gt;Click here to stop scrolling&lt;/a&gt;&lt;br&gt;
 
-####&emsp;&lt;a href="\#"&gt;Blue Heart Agency&lt;/a&gt;&lt;br&gt;
+####&emsp;&emsp;&lt;a href="\#"&gt;Blue Heart Agency&lt;/a&gt;&lt;br&gt;
 
-####&emsp;&lt;a href="\#"&gt;I Just Wanna&lt;/a&gt;&lt;br&gt;
+####&emsp;&emsp;&lt;a href="\#"&gt;I Just Wanna&lt;/a&gt;&lt;br&gt;
 
-####&emsp;&lt;a href="\#"&gt;Button Poetry&lt;/a&gt;&lt;br&gt;
+####&emsp;&emsp;&lt;a href="\#"&gt;Button Poetry&lt;/a&gt;&lt;br&gt;
 
-####&emsp;&lt;a href="\#"&gt;The Writer is Present&lt;/a&gt;&lt;br&gt;
+####&emsp;&emsp;&lt;a href="\#"&gt;The Writer is Present&lt;/a&gt;&lt;br&gt;
 
-####&emsp;&lt;a href="\#"&gt;We only got 10 mins to save the content&lt;/a&gt;&lt;br&gt;
+####&emsp;&emsp;&lt;a href="\#"&gt;We only got 10 mins to save the content&lt;/a&gt;&lt;br&gt;
 
-####&emsp;&lt;a href="\#"&gt;Mute everything&lt;/a&gt;&lt;br&gt;
+####&emsp;&emsp;&lt;a href="\#"&gt;Mute everything&lt;/a&gt;&lt;br&gt;
 
-####&emsp;&lt;a href="\#"&gt;Forever load, but not like that&lt;/a&gt;&lt;br&gt;
+####&emsp;&emsp;&lt;a href="\#"&gt;Forever load, but not like that&lt;/a&gt;&lt;br&gt;
 
-####&emsp;&lt;a href="\#"&gt;Rotating structures, floating points, and similar&lt;/a&gt;&lt;br&gt;
+####&emsp;&emsp;&lt;a href="\#"&gt;Rotating structures, floating points, and similar&lt;/a&gt;&lt;br&gt;
 
-####&emsp;&lt;a href="\#"&gt;All known blanks&lt;/a&gt;&lt;br&gt;
+####&emsp;&emsp;&lt;a href="\#"&gt;All known blanks&lt;/a&gt;&lt;br&gt;
 
-####&emsp;&lt;a href="\#"&gt;Working station of profile production&lt;/a&gt;&lt;br&gt;
+####&emsp;&emsp;&lt;a href="\#"&gt;Working station of profile production&lt;/a&gt;&lt;br&gt;
 
 It’s not a list in code. Were I to write semantic code, it’d be wrapped
 in a &lt;ul&gt;&lt;/ul&gt; tag, followed by a &lt;li&gt; tag around each

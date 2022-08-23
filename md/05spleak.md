@@ -167,6 +167,6 @@ for promoting dreams to me I didn’t know I dreamt of, and for
 materializing them. Giving me a reason to study the first, archetypical
 figure of a web developer, in order to understand my own.
 
-[^05spleak_1]: Lyrics from ‘Prokleta je Amerika’, by the famous Bosnian pop-folk singern Donna Ares:[*https://www.youtube.com/watch?v=qLs6Tqy9Nt0*](https://www.youtube.com/watch?v=qLs6Tqy9Nt0).
+[^05spleak_1]: Lyrics from ‘Prokleta je Amerika’, by the famous Bosnian pop-folk singern Donna Ares: [*https://www.youtube.com/watch?v=qLs6Tqy9Nt0*](https://www.youtube.com/watch?v=qLs6Tqy9Nt0).
 
 [^05spleak_2]: IM applications are often standalone applications, such as WhatsApp. They can also be embedded applications with multiple purposes. Instant messaging programs can differ based on the platform they are embedded in. For example, an instant messaging tool can be embedded into the following: social media.

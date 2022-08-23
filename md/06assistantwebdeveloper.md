@@ -94,7 +94,7 @@ the main team to formulate their core question. Without one, he said, he
 wouldn’t be able to continue working. ZipSpace had no objections
 regarding the idea and instantly came up with:
 
-\[‘What *is* graphic design and what else *can* it be?’\]
+<center>\[‘What *is* graphic design and what else *can* it be?’\]</center>
 
 Larry was surprised with their speed and submission; he even felt a
 slightly betrayed. For a split second, he started flirting with the idea

@@ -136,55 +136,54 @@ their inactivity on the platform.
 I *roger’ed* that. I used it as a mantra throughout the whole working
 day, which I spent writing a presentable version of the following list:
 
-<center>There are no upcoming courses you’re a follower of. (FACT)
+<center>There are no upcoming courses you’re a follower of. (FACT)</center>
 
-You are not following any upcoming courses. (FACT)
+<center>You are not following any upcoming courses. (FACT)</center>
 
-Courses that you follow will be listed below. (SUGGESTIVE)
+<center>Courses that you follow will be listed below. (SUGGESTIVE)</center>
 
-To see the courses below, you must first follow them. (TOO SUGGESTIVE)
+<center>To see the courses below, you must first follow them. (TOO SUGGESTIVE)</center>
 
-There are no events scheduled this week.
+<center>There are no events scheduled this week.</center>
 
-There are no events scheduled for next week.
+<center>There are no events scheduled for next week.</center>
 
-There are no events scheduled for the selected week.
+<center>There are no events scheduled for the selected week.</center>
 
-You are not attending any events this week.
+<center>You are not attending any events this week.</center>
 
-You are not attending any events next week.
+<center>You are not attending any events next week.</center>
 
-You are not attending any events in that particular week.
+<center>You are not attending any events in that particular week.</center>
 
-Events which you are attending will appear below. (SUGGESTIVE)
+<center>Events which you are attending will appear below. (SUGGESTIVE)</center>
 
-Students, faculty, staff from the same time zone and of similar
-interests you follow will appear below/here. (SUGGESTIVE)
+<center>Students, faculty, staff from the same time zone and of similar
+interests you follow will appear below/here. (SUGGESTIVE)</center>
 
-Activity baskets related to the courses you’re following will appear
-below/here. (SUGGESTIVE)
+<center>Activity baskets related to the courses you’re following will appear below/here. (SUGGESTIVE)</center>
 
-There are no people from the courses you followed.
+<center>There are no people from the courses you followed.</center>
 
-There are no baskets you’re part of related to this course.
+<center>There are no baskets you’re part of related to this course.</center>
 
-This person doesn’t follow any courses.
+<center>This person doesn’t follow any courses.</center>
 
-You don’t follow mutual courses with this person.
+<center>You don’t follow mutual courses with this person.</center>
 
-This person has no mutual courses with other people yet.
+<center>This person has no mutual courses with other people yet.</center>
 
-This person has not contributed to baskets with other people yet.
+<center>This person has not contributed to baskets with other people yet.</center>
 
-This person doesn’t own any baskets yet.
+<center>This person doesn’t own any baskets yet.</center>
 
-This person doesn’t contribute to any baskets yet.
+<center>This person doesn’t contribute to any baskets yet.</center>
 
-You are not following any course related to this basket yet.
+<center>You are not following any course related to this basket yet.</center>
 
-You are not a part of any basket related to any courses.
+<center>You are not a part of any basket related to any courses.</center>
 
-You are not.</center>
+<center>You are not.</center>
 
 It took a rather long time because I hated it, for similar reasons as to why I
 hate Wordle.[^14scottgivesmeanassignment_2] While re-reading my written suggestions what bothered
